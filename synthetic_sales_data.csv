@@ -1,0 +1,1001 @@
+CustomerID,Product,TransactionID,Gender,Quantity,Amount,City,SalesTime,Category
+CID00001,Yoga Mat,TX000001,Female,2,109.63,Jimma,2024-01-01 00:00:00,Sports
+CID00002,Samsung Galaxy S23,TX000002,Female,5,11.66,Jimma,2024-01-01 01:00:00,Electronics
+CID00003,TCL Smart TV,TX000003,Male,9,266.17,Jimma,2024-01-01 02:00:00,Electronics
+CID00004,Blender Bottle,TX000004,Male,1,166.9,Jimma,2024-01-01 03:00:00,Groceries
+CID00005,Maybelline Mascara,TX000005,Male,3,101.54,Bahir Dar,2024-01-01 04:00:00,Beauty
+CID00006,Wilson Tennis Racket,TX000006,Female,3,233.93,Addis Ababa,2024-01-01 05:00:00,Sports
+CID00007,Sony Bravia 4K TV,TX000007,Male,6,114.18,Dire Dawa,2024-01-01 06:00:00,Electronics
+CID00008,Fitbit Charge 5,TX000008,Female,2,281.87,Bahir Dar,2024-01-01 07:00:00,Electronics
+CID00009,Bose SoundLink Speaker,TX000009,Female,2,37.15,Jimma,2024-01-01 08:00:00,Electronics
+CID00010,Samsung Smartwatch,TX000010,Female,4,394.38,Adama,2024-01-01 09:00:00,Electronics
+CID00011,Vitamix Blender,TX000011,Male,4,158.2,Jimma,2024-01-01 10:00:00,Home Appliances
+CID00012,Samsung Galaxy S23,TX000012,Male,8,69.0,Adama,2024-01-01 11:00:00,Electronics
+CID00013,Vitamix Blender,TX000013,Male,7,409.21,Bahir Dar,2024-01-01 12:00:00,Home Appliances
+CID00014,Philips Hue Smart Bulbs,TX000014,Female,5,452.53,Addis Ababa,2024-01-01 13:00:00,Home Appliances
+CID00015,iPhone 14,TX000015,Female,6,184.78,Adama,2024-01-01 14:00:00,Electronics
+CID00016,iPhone 14,TX000016,Female,9,465.79,Bahir Dar,2024-01-01 15:00:00,Electronics
+CID00017,Office Chair,TX000017,Male,1,132.53,Jimma,2024-01-01 16:00:00,Furniture
+CID00018,Bose QuietComfort 35,TX000018,Female,3,188.12,Bahir Dar,2024-01-01 17:00:00,Electronics
+CID00019,KitchenAid Mixer,TX000019,Male,8,84.38,Addis Ababa,2024-01-01 18:00:00,Home Appliances
+CID00020,Nintendo Switch,TX000020,Male,6,143.11,Adama,2024-01-01 19:00:00,Toys
+CID00021,L’Oreal Face Cream,TX000021,Male,7,68.9,Jimma,2024-01-01 20:00:00,Beauty
+CID00022,Samsung Smartwatch,TX000022,Male,1,57.03,Addis Ababa,2024-01-01 21:00:00,Electronics
+CID00023,Asus ROG Gaming Laptop,TX000023,Male,8,109.47,Jimma,2024-01-01 22:00:00,Electronics
+CID00024,GoPro Hero 11,TX000024,Female,8,179.43,Bahir Dar,2024-01-01 23:00:00,Electronics
+CID00025,Fossil Watch,TX000025,Female,6,457.29,Bahir Dar,2024-01-02 00:00:00,Accessories
+CID00026,Vitamix Blender,TX000026,Female,8,426.36,Jimma,2024-01-02 01:00:00,Home Appliances
+CID00027,Levi’s 501 Jeans,TX000027,Female,3,161.23,Addis Ababa,2024-01-02 02:00:00,Clothing
+CID00028,Monopoly Board Game,TX000028,Female,8,107.9,Bahir Dar,2024-01-02 03:00:00,Toys
+CID00029,Yoga Mat,TX000029,Male,4,485.31,Adama,2024-01-02 04:00:00,Sports
+CID00030,Levi’s 501 Jeans,TX000030,Female,9,62.55,Jimma,2024-01-02 05:00:00,Clothing
+CID00031,Samsung Smartwatch,TX000031,Female,7,135.65,Adama,2024-01-02 06:00:00,Electronics
+CID00032,Nike Air Max,TX000032,Male,9,367.18,Jimma,2024-01-02 07:00:00,Clothing
+CID00033,Samsung Smartwatch,TX000033,Male,4,157.88,Bahir Dar,2024-01-02 08:00:00,Electronics
+CID00034,Fossil Watch,TX000034,Female,3,113.68,Bahir Dar,2024-01-02 09:00:00,Accessories
+CID00035,Harry Potter Box Set,TX000035,Male,7,345.63,Dire Dawa,2024-01-02 10:00:00,Books
+CID00036,Yoga Mat,TX000036,Male,4,82.8,Dire Dawa,2024-01-02 11:00:00,Sports
+CID00037,Nike Air Max,TX000037,Male,5,132.73,Bahir Dar,2024-01-02 12:00:00,Clothing
+CID00038,Dell XPS 13 Laptop,TX000038,Female,7,431.93,Bahir Dar,2024-01-02 13:00:00,Electronics
+CID00039,Fitbit Charge 5,TX000039,Female,9,273.91,Hawassa,2024-01-02 14:00:00,Electronics
+CID00040,Wilson Tennis Racket,TX000040,Male,1,347.7,Hawassa,2024-01-02 15:00:00,Sports
+CID00041,Under Armour Hoodie,TX000041,Female,2,364.51,Hawassa,2024-01-02 16:00:00,Clothing
+CID00042,iPhone 14,TX000042,Male,9,313.05,Addis Ababa,2024-01-02 17:00:00,Electronics
+CID00043,Car Seat Cover,TX000043,Male,6,413.4,Adama,2024-01-02 18:00:00,Automotive
+CID00044,Levi’s Jacket,TX000044,Male,1,225.26,Jimma,2024-01-02 19:00:00,Clothing
+CID00045,L’Oreal Face Cream,TX000045,Female,3,237.83,Hawassa,2024-01-02 20:00:00,Beauty
+CID00046,KitchenAid Mixer,TX000046,Female,7,497.18,Bahir Dar,2024-01-02 21:00:00,Home Appliances
+CID00047,Sony Bravia 4K TV,TX000047,Female,8,435.83,Hawassa,2024-01-02 22:00:00,Electronics
+CID00048,Dell XPS 13 Laptop,TX000048,Male,9,370.51,Adama,2024-01-02 23:00:00,Electronics
+CID00049,Bose SoundLink Speaker,TX000049,Female,7,434.75,Dire Dawa,2024-01-03 00:00:00,Electronics
+CID00050,Monopoly Board Game,TX000050,Male,6,225.58,Bahir Dar,2024-01-03 01:00:00,Toys
+CID00051,Wilson Tennis Racket,TX000051,Female,5,125.31,Dire Dawa,2024-01-03 02:00:00,Sports
+CID00052,Nike Air Max,TX000052,Male,9,294.0,Bahir Dar,2024-01-03 03:00:00,Clothing
+CID00053,Dell XPS 13 Laptop,TX000053,Male,4,279.53,Hawassa,2024-01-03 04:00:00,Electronics
+CID00054,Levi’s Jacket,TX000054,Male,4,133.56,Dire Dawa,2024-01-03 05:00:00,Clothing
+CID00055,Asus ROG Gaming Laptop,TX000055,Male,4,201.69,Bahir Dar,2024-01-03 06:00:00,Electronics
+CID00056,iPhone 14,TX000056,Female,9,469.6,Hawassa,2024-01-03 07:00:00,Electronics
+CID00057,Samsung Smartwatch,TX000057,Female,9,208.22,Jimma,2024-01-03 08:00:00,Electronics
+CID00058,Sony Bravia 4K TV,TX000058,Male,4,482.89,Jimma,2024-01-03 09:00:00,Electronics
+CID00059,KitchenAid Mixer,TX000059,Female,2,299.67,Addis Ababa,2024-01-03 10:00:00,Home Appliances
+CID00060,Nike Air Max,TX000060,Female,2,144.87,Addis Ababa,2024-01-03 11:00:00,Clothing
+CID00061,Fossil Watch,TX000061,Male,5,209.86,Addis Ababa,2024-01-03 12:00:00,Accessories
+CID00062,L’Oreal Face Cream,TX000062,Female,1,55.99,Adama,2024-01-03 13:00:00,Beauty
+CID00063,Oculus Quest 2,TX000063,Male,7,274.76,Hawassa,2024-01-03 14:00:00,Electronics
+CID00064,Seiko Watch,TX000064,Female,3,374.83,Bahir Dar,2024-01-03 15:00:00,Accessories
+CID00065,Harry Potter Box Set,TX000065,Male,7,199.49,Dire Dawa,2024-01-03 16:00:00,Books
+CID00066,Blender Bottle,TX000066,Female,6,268.29,Dire Dawa,2024-01-03 17:00:00,Groceries
+CID00067,Bose SoundLink Speaker,TX000067,Female,9,160.99,Addis Ababa,2024-01-03 18:00:00,Electronics
+CID00068,KitchenAid Mixer,TX000068,Male,4,87.77,Jimma,2024-01-03 19:00:00,Home Appliances
+CID00069,iPhone 14,TX000069,Male,7,258.1,Jimma,2024-01-03 20:00:00,Electronics
+CID00070,Sony PlayStation 5,TX000070,Male,9,41.3,Adama,2024-01-03 21:00:00,Toys
+CID00071,Desk Organizer,TX000071,Male,2,91.89,Dire Dawa,2024-01-03 22:00:00,Office Supplies
+CID00072,Sony Bravia 4K TV,TX000072,Male,6,414.05,Hawassa,2024-01-03 23:00:00,Electronics
+CID00073,Apple Watch Series 8,TX000073,Female,8,112.55,Hawassa,2024-01-04 00:00:00,Electronics
+CID00074,Jabra Elite 75t,TX000074,Female,4,412.71,Dire Dawa,2024-01-04 01:00:00,Electronics
+CID00075,Maybelline Mascara,TX000075,Female,5,329.43,Addis Ababa,2024-01-04 02:00:00,Beauty
+CID00076,LG Refrigerator,TX000076,Female,6,268.33,Addis Ababa,2024-01-04 03:00:00,Home Appliances
+CID00077,Bose SoundLink Speaker,TX000077,Male,9,421.03,Hawassa,2024-01-04 04:00:00,Electronics
+CID00078,Jabra Elite 75t,TX000078,Female,7,96.61,Dire Dawa,2024-01-04 05:00:00,Electronics
+CID00079,Bose QuietComfort 35,TX000079,Female,2,81.9,Addis Ababa,2024-01-04 06:00:00,Electronics
+CID00080,Apple Watch Series 8,TX000080,Female,2,70.26,Adama,2024-01-04 07:00:00,Electronics
+CID00081,LG Refrigerator,TX000081,Female,7,233.13,Hawassa,2024-01-04 08:00:00,Home Appliances
+CID00082,Bose QuietComfort 35,TX000082,Male,1,14.41,Adama,2024-01-04 09:00:00,Electronics
+CID00083,Asus ROG Gaming Laptop,TX000083,Female,8,216.1,Jimma,2024-01-04 10:00:00,Electronics
+CID00084,Puma Running Shoes,TX000084,Male,5,299.73,Adama,2024-01-04 11:00:00,Clothing
+CID00085,Seiko Watch,TX000085,Male,8,95.19,Jimma,2024-01-04 12:00:00,Accessories
+CID00086,Desk Organizer,TX000086,Male,7,12.81,Adama,2024-01-04 13:00:00,Office Supplies
+CID00087,Dell XPS 13 Laptop,TX000087,Male,7,444.53,Hawassa,2024-01-04 14:00:00,Electronics
+CID00088,Asus ROG Gaming Laptop,TX000088,Male,7,65.22,Addis Ababa,2024-01-04 15:00:00,Electronics
+CID00089,LG Refrigerator,TX000089,Male,4,126.81,Bahir Dar,2024-01-04 16:00:00,Home Appliances
+CID00090,Under Armour Hoodie,TX000090,Female,8,282.58,Adama,2024-01-04 17:00:00,Clothing
+CID00091,Office Chair,TX000091,Male,6,165.66,Bahir Dar,2024-01-04 18:00:00,Furniture
+CID00092,Vitamix Blender,TX000092,Female,6,232.08,Addis Ababa,2024-01-04 19:00:00,Home Appliances
+CID00093,Oculus Quest 2,TX000093,Female,4,291.07,Bahir Dar,2024-01-04 20:00:00,Electronics
+CID00094,Nike T-Shirt,TX000094,Female,4,47.17,Adama,2024-01-04 21:00:00,Clothing
+CID00095,Monopoly Board Game,TX000095,Male,5,421.62,Addis Ababa,2024-01-04 22:00:00,Toys
+CID00096,Philips Hue Smart Bulbs,TX000096,Female,8,37.34,Bahir Dar,2024-01-04 23:00:00,Home Appliances
+CID00097,Canon EOS R5 Camera,TX000097,Male,2,258.58,Adama,2024-01-05 00:00:00,Electronics
+CID00098,Canon EOS R5 Camera,TX000098,Male,3,361.45,Hawassa,2024-01-05 01:00:00,Electronics
+CID00099,Nike T-Shirt,TX000099,Male,8,297.69,Dire Dawa,2024-01-05 02:00:00,Clothing
+CID00100,Puma Running Shoes,TX000100,Female,7,154.73,Dire Dawa,2024-01-05 03:00:00,Clothing
+CID00101,TCL Smart TV,TX000101,Female,1,355.96,Adama,2024-01-05 04:00:00,Electronics
+CID00102,LG Refrigerator,TX000102,Female,9,249.15,Hawassa,2024-01-05 05:00:00,Home Appliances
+CID00103,Nintendo Switch,TX000103,Male,9,128.19,Addis Ababa,2024-01-05 06:00:00,Toys
+CID00104,Dell XPS 13 Laptop,TX000104,Female,7,430.35,Bahir Dar,2024-01-05 07:00:00,Electronics
+CID00105,Nike T-Shirt,TX000105,Female,5,383.86,Hawassa,2024-01-05 08:00:00,Clothing
+CID00106,Fitbit Charge 5,TX000106,Female,9,441.12,Addis Ababa,2024-01-05 09:00:00,Electronics
+CID00107,Apple Watch Series 8,TX000107,Female,2,422.07,Dire Dawa,2024-01-05 10:00:00,Electronics
+CID00108,GoPro Hero 11,TX000108,Female,1,207.37,Addis Ababa,2024-01-05 11:00:00,Electronics
+CID00109,LG Refrigerator,TX000109,Female,6,118.59,Addis Ababa,2024-01-05 12:00:00,Home Appliances
+CID00110,Desk Organizer,TX000110,Female,4,325.89,Hawassa,2024-01-05 13:00:00,Office Supplies
+CID00111,Oculus Quest 2,TX000111,Female,9,269.19,Hawassa,2024-01-05 14:00:00,Electronics
+CID00112,Office Chair,TX000112,Male,8,130.33,Dire Dawa,2024-01-05 15:00:00,Furniture
+CID00113,Nike T-Shirt,TX000113,Female,5,244.01,Bahir Dar,2024-01-05 16:00:00,Clothing
+CID00114,Philips Hue Smart Bulbs,TX000114,Female,8,469.19,Bahir Dar,2024-01-05 17:00:00,Home Appliances
+CID00115,Jabra Elite 75t,TX000115,Male,7,329.0,Dire Dawa,2024-01-05 18:00:00,Electronics
+CID00116,Nike Air Max,TX000116,Male,9,140.53,Hawassa,2024-01-05 19:00:00,Clothing
+CID00117,Philips Hue Smart Bulbs,TX000117,Female,7,421.59,Bahir Dar,2024-01-05 20:00:00,Home Appliances
+CID00118,GoPro Hero 11,TX000118,Male,9,371.18,Dire Dawa,2024-01-05 21:00:00,Electronics
+CID00119,Sony Bravia 4K TV,TX000119,Male,2,441.5,Hawassa,2024-01-05 22:00:00,Electronics
+CID00120,Monopoly Board Game,TX000120,Male,3,138.36,Dire Dawa,2024-01-05 23:00:00,Toys
+CID00121,Yoga Mat,TX000121,Male,5,154.58,Jimma,2024-01-06 00:00:00,Sports
+CID00122,Jabra Elite 75t,TX000122,Female,9,69.34,Dire Dawa,2024-01-06 01:00:00,Electronics
+CID00123,Vitamix Blender,TX000123,Female,9,354.42,Hawassa,2024-01-06 02:00:00,Home Appliances
+CID00124,Wilson Tennis Racket,TX000124,Female,6,289.68,Hawassa,2024-01-06 03:00:00,Sports
+CID00125,Vitamix Blender,TX000125,Female,7,451.23,Addis Ababa,2024-01-06 04:00:00,Home Appliances
+CID00126,GoPro Hero 11,TX000126,Female,8,252.8,Jimma,2024-01-06 05:00:00,Electronics
+CID00127,Harry Potter Box Set,TX000127,Female,5,310.92,Adama,2024-01-06 06:00:00,Books
+CID00128,Adidas Ultraboost,TX000128,Female,5,473.89,Dire Dawa,2024-01-06 07:00:00,Clothing
+CID00129,Adidas Ultraboost,TX000129,Male,9,21.28,Addis Ababa,2024-01-06 08:00:00,Clothing
+CID00130,iPhone 14,TX000130,Male,9,353.29,Hawassa,2024-01-06 09:00:00,Electronics
+CID00131,Seiko Watch,TX000131,Male,2,478.04,Addis Ababa,2024-01-06 10:00:00,Accessories
+CID00132,Under Armour Hoodie,TX000132,Male,7,236.77,Hawassa,2024-01-06 11:00:00,Clothing
+CID00133,Oculus Quest 2,TX000133,Female,5,290.12,Jimma,2024-01-06 12:00:00,Electronics
+CID00134,Nintendo Switch,TX000134,Female,4,375.6,Dire Dawa,2024-01-06 13:00:00,Toys
+CID00135,GoPro Hero 11,TX000135,Male,1,453.78,Addis Ababa,2024-01-06 14:00:00,Electronics
+CID00136,Under Armour Hoodie,TX000136,Male,7,96.02,Hawassa,2024-01-06 15:00:00,Clothing
+CID00137,Puma Running Shoes,TX000137,Male,4,254.54,Addis Ababa,2024-01-06 16:00:00,Clothing
+CID00138,Oculus Quest 2,TX000138,Male,2,147.32,Jimma,2024-01-06 17:00:00,Electronics
+CID00139,Apple Watch Series 8,TX000139,Female,2,42.32,Bahir Dar,2024-01-06 18:00:00,Electronics
+CID00140,Nike Air Max,TX000140,Male,4,332.72,Addis Ababa,2024-01-06 19:00:00,Clothing
+CID00141,Levi’s Jacket,TX000141,Male,5,130.31,Jimma,2024-01-06 20:00:00,Clothing
+CID00142,Yoga Mat,TX000142,Female,6,306.46,Jimma,2024-01-06 21:00:00,Sports
+CID00143,Vitamix Blender,TX000143,Female,5,117.16,Dire Dawa,2024-01-06 22:00:00,Home Appliances
+CID00144,iPhone 14,TX000144,Male,8,172.05,Addis Ababa,2024-01-06 23:00:00,Electronics
+CID00145,Nike T-Shirt,TX000145,Male,8,96.9,Bahir Dar,2024-01-07 00:00:00,Clothing
+CID00146,GoPro Hero 11,TX000146,Male,4,76.28,Adama,2024-01-07 01:00:00,Electronics
+CID00147,iPhone 14,TX000147,Female,8,394.28,Jimma,2024-01-07 02:00:00,Electronics
+CID00148,Bose QuietComfort 35,TX000148,Female,2,470.61,Jimma,2024-01-07 03:00:00,Electronics
+CID00149,Dell XPS 13 Laptop,TX000149,Male,9,256.71,Dire Dawa,2024-01-07 04:00:00,Electronics
+CID00150,Wilson Tennis Racket,TX000150,Female,1,20.26,Addis Ababa,2024-01-07 05:00:00,Sports
+CID00151,Sony PlayStation 5,TX000151,Female,1,446.66,Hawassa,2024-01-07 06:00:00,Toys
+CID00152,Apple Watch Series 8,TX000152,Female,3,281.74,Adama,2024-01-07 07:00:00,Electronics
+CID00153,iPhone 14,TX000153,Male,5,137.15,Addis Ababa,2024-01-07 08:00:00,Electronics
+CID00154,KitchenAid Mixer,TX000154,Female,5,361.74,Hawassa,2024-01-07 09:00:00,Home Appliances
+CID00155,Desk Organizer,TX000155,Male,5,468.36,Bahir Dar,2024-01-07 10:00:00,Office Supplies
+CID00156,Car Seat Cover,TX000156,Male,4,281.54,Jimma,2024-01-07 11:00:00,Automotive
+CID00157,Samsung Smartwatch,TX000157,Male,8,401.21,Addis Ababa,2024-01-07 12:00:00,Electronics
+CID00158,Nike T-Shirt,TX000158,Female,8,352.51,Bahir Dar,2024-01-07 13:00:00,Clothing
+CID00159,Seiko Watch,TX000159,Male,8,325.79,Jimma,2024-01-07 14:00:00,Accessories
+CID00160,Harry Potter Box Set,TX000160,Female,6,379.99,Jimma,2024-01-07 15:00:00,Books
+CID00161,Under Armour Hoodie,TX000161,Male,1,226.8,Hawassa,2024-01-07 16:00:00,Clothing
+CID00162,Philips Hue Smart Bulbs,TX000162,Male,2,181.67,Jimma,2024-01-07 17:00:00,Home Appliances
+CID00163,Sony PlayStation 5,TX000163,Male,1,269.18,Bahir Dar,2024-01-07 18:00:00,Toys
+CID00164,Seiko Watch,TX000164,Male,3,176.45,Jimma,2024-01-07 19:00:00,Accessories
+CID00165,Puma Running Shoes,TX000165,Male,1,387.4,Adama,2024-01-07 20:00:00,Clothing
+CID00166,Smeg Coffee Machine,TX000166,Male,5,240.23,Bahir Dar,2024-01-07 21:00:00,Home Appliances
+CID00167,Nike T-Shirt,TX000167,Male,2,24.89,Adama,2024-01-07 22:00:00,Clothing
+CID00168,Philips Hue Smart Bulbs,TX000168,Male,5,255.85,Hawassa,2024-01-07 23:00:00,Home Appliances
+CID00169,Adidas Ultraboost,TX000169,Male,2,103.89,Hawassa,2024-01-08 00:00:00,Clothing
+CID00170,Puma Running Shoes,TX000170,Male,2,328.77,Dire Dawa,2024-01-08 01:00:00,Clothing
+CID00171,Car Seat Cover,TX000171,Female,2,252.35,Dire Dawa,2024-01-08 02:00:00,Automotive
+CID00172,Samsung Smartwatch,TX000172,Male,7,122.59,Jimma,2024-01-08 03:00:00,Electronics
+CID00173,Philips Hue Smart Bulbs,TX000173,Female,5,279.84,Bahir Dar,2024-01-08 04:00:00,Home Appliances
+CID00174,Levi’s Jacket,TX000174,Female,3,205.08,Jimma,2024-01-08 05:00:00,Clothing
+CID00175,Nintendo Switch,TX000175,Male,6,270.95,Bahir Dar,2024-01-08 06:00:00,Toys
+CID00176,L’Oreal Face Cream,TX000176,Female,2,191.62,Jimma,2024-01-08 07:00:00,Beauty
+CID00177,Nike Air Max,TX000177,Male,1,332.3,Hawassa,2024-01-08 08:00:00,Clothing
+CID00178,Wilson Tennis Racket,TX000178,Male,9,20.06,Dire Dawa,2024-01-08 09:00:00,Sports
+CID00179,LG Refrigerator,TX000179,Female,9,467.48,Dire Dawa,2024-01-08 10:00:00,Home Appliances
+CID00180,Levi’s 501 Jeans,TX000180,Female,3,243.38,Jimma,2024-01-08 11:00:00,Clothing
+CID00181,Blender Bottle,TX000181,Female,2,167.71,Adama,2024-01-08 12:00:00,Groceries
+CID00182,Smeg Coffee Machine,TX000182,Female,5,142.18,Hawassa,2024-01-08 13:00:00,Home Appliances
+CID00183,Maybelline Mascara,TX000183,Male,2,352.41,Addis Ababa,2024-01-08 14:00:00,Beauty
+CID00184,Dell XPS 13 Laptop,TX000184,Female,8,64.56,Bahir Dar,2024-01-08 15:00:00,Electronics
+CID00185,Smeg Coffee Machine,TX000185,Female,3,339.05,Adama,2024-01-08 16:00:00,Home Appliances
+CID00186,Bose SoundLink Speaker,TX000186,Male,2,291.15,Addis Ababa,2024-01-08 17:00:00,Electronics
+CID00187,Canon EOS R5 Camera,TX000187,Female,2,18.98,Addis Ababa,2024-01-08 18:00:00,Electronics
+CID00188,KitchenAid Mixer,TX000188,Male,4,499.15,Dire Dawa,2024-01-08 19:00:00,Home Appliances
+CID00189,Oculus Quest 2,TX000189,Male,3,60.28,Jimma,2024-01-08 20:00:00,Electronics
+CID00190,Smeg Coffee Machine,TX000190,Female,4,153.99,Adama,2024-01-08 21:00:00,Home Appliances
+CID00191,Sony Bravia 4K TV,TX000191,Male,4,299.51,Bahir Dar,2024-01-08 22:00:00,Electronics
+CID00192,Seiko Watch,TX000192,Female,8,283.71,Bahir Dar,2024-01-08 23:00:00,Accessories
+CID00193,Wilson Tennis Racket,TX000193,Female,6,336.76,Bahir Dar,2024-01-09 00:00:00,Sports
+CID00194,Nintendo Switch,TX000194,Female,7,307.95,Jimma,2024-01-09 01:00:00,Toys
+CID00195,Bose SoundLink Speaker,TX000195,Male,8,78.75,Jimma,2024-01-09 02:00:00,Electronics
+CID00196,Nike T-Shirt,TX000196,Female,4,360.67,Hawassa,2024-01-09 03:00:00,Clothing
+CID00197,Levi’s Jacket,TX000197,Male,4,215.4,Dire Dawa,2024-01-09 04:00:00,Clothing
+CID00198,Harry Potter Box Set,TX000198,Male,7,169.4,Bahir Dar,2024-01-09 05:00:00,Books
+CID00199,Nintendo Switch,TX000199,Male,3,10.7,Bahir Dar,2024-01-09 06:00:00,Toys
+CID00200,Adidas Ultraboost,TX000200,Male,7,39.16,Addis Ababa,2024-01-09 07:00:00,Clothing
+CID00201,Asus ROG Gaming Laptop,TX000201,Female,8,330.95,Dire Dawa,2024-01-09 08:00:00,Electronics
+CID00202,Asus ROG Gaming Laptop,TX000202,Female,3,62.5,Dire Dawa,2024-01-09 09:00:00,Electronics
+CID00203,Smeg Coffee Machine,TX000203,Female,6,464.19,Bahir Dar,2024-01-09 10:00:00,Home Appliances
+CID00204,Desk Organizer,TX000204,Male,7,147.68,Dire Dawa,2024-01-09 11:00:00,Office Supplies
+CID00205,Fitbit Charge 5,TX000205,Male,5,348.1,Jimma,2024-01-09 12:00:00,Electronics
+CID00206,Monopoly Board Game,TX000206,Female,5,366.86,Addis Ababa,2024-01-09 13:00:00,Toys
+CID00207,Asus ROG Gaming Laptop,TX000207,Female,3,372.61,Addis Ababa,2024-01-09 14:00:00,Electronics
+CID00208,Sony Bravia 4K TV,TX000208,Female,9,11.98,Jimma,2024-01-09 15:00:00,Electronics
+CID00209,Maybelline Mascara,TX000209,Male,8,218.94,Addis Ababa,2024-01-09 16:00:00,Beauty
+CID00210,L’Oreal Face Cream,TX000210,Female,2,32.13,Dire Dawa,2024-01-09 17:00:00,Beauty
+CID00211,Samsung Galaxy S23,TX000211,Male,1,51.23,Addis Ababa,2024-01-09 18:00:00,Electronics
+CID00212,L’Oreal Face Cream,TX000212,Female,1,467.33,Bahir Dar,2024-01-09 19:00:00,Beauty
+CID00213,L’Oreal Face Cream,TX000213,Female,5,185.24,Addis Ababa,2024-01-09 20:00:00,Beauty
+CID00214,Adidas Ultraboost,TX000214,Male,8,303.79,Hawassa,2024-01-09 21:00:00,Clothing
+CID00215,Levi’s Jacket,TX000215,Female,6,220.16,Dire Dawa,2024-01-09 22:00:00,Clothing
+CID00216,Maybelline Mascara,TX000216,Female,1,42.63,Bahir Dar,2024-01-09 23:00:00,Beauty
+CID00217,Bose SoundLink Speaker,TX000217,Female,8,49.19,Jimma,2024-01-10 00:00:00,Electronics
+CID00218,Oculus Quest 2,TX000218,Female,9,270.0,Dire Dawa,2024-01-10 01:00:00,Electronics
+CID00219,LG Refrigerator,TX000219,Female,9,477.91,Jimma,2024-01-10 02:00:00,Home Appliances
+CID00220,Harry Potter Box Set,TX000220,Female,4,335.1,Dire Dawa,2024-01-10 03:00:00,Books
+CID00221,Car Seat Cover,TX000221,Male,2,361.4,Adama,2024-01-10 04:00:00,Automotive
+CID00222,Vitamix Blender,TX000222,Male,3,216.78,Jimma,2024-01-10 05:00:00,Home Appliances
+CID00223,Monopoly Board Game,TX000223,Female,6,64.16,Bahir Dar,2024-01-10 06:00:00,Toys
+CID00224,iPhone 14,TX000224,Male,1,237.82,Adama,2024-01-10 07:00:00,Electronics
+CID00225,Bose SoundLink Speaker,TX000225,Male,9,231.82,Bahir Dar,2024-01-10 08:00:00,Electronics
+CID00226,Wilson Tennis Racket,TX000226,Female,2,185.42,Dire Dawa,2024-01-10 09:00:00,Sports
+CID00227,LG Refrigerator,TX000227,Male,8,308.48,Bahir Dar,2024-01-10 10:00:00,Home Appliances
+CID00228,Adidas Ultraboost,TX000228,Female,5,277.77,Dire Dawa,2024-01-10 11:00:00,Clothing
+CID00229,Bose QuietComfort 35,TX000229,Male,6,314.33,Dire Dawa,2024-01-10 12:00:00,Electronics
+CID00230,Bose QuietComfort 35,TX000230,Female,8,367.91,Dire Dawa,2024-01-10 13:00:00,Electronics
+CID00231,Nike T-Shirt,TX000231,Female,1,449.63,Dire Dawa,2024-01-10 14:00:00,Clothing
+CID00232,Nintendo Switch,TX000232,Male,6,142.63,Adama,2024-01-10 15:00:00,Toys
+CID00233,Oculus Quest 2,TX000233,Female,3,67.95,Hawassa,2024-01-10 16:00:00,Electronics
+CID00234,Desk Organizer,TX000234,Male,4,102.94,Adama,2024-01-10 17:00:00,Office Supplies
+CID00235,Levi’s Jacket,TX000235,Female,1,256.26,Dire Dawa,2024-01-10 18:00:00,Clothing
+CID00236,GoPro Hero 11,TX000236,Female,8,173.04,Addis Ababa,2024-01-10 19:00:00,Electronics
+CID00237,iPhone 14,TX000237,Female,3,216.6,Dire Dawa,2024-01-10 20:00:00,Electronics
+CID00238,Sony PlayStation 5,TX000238,Male,7,197.47,Adama,2024-01-10 21:00:00,Toys
+CID00239,Levi’s Jacket,TX000239,Male,4,418.32,Dire Dawa,2024-01-10 22:00:00,Clothing
+CID00240,Asus ROG Gaming Laptop,TX000240,Female,9,205.1,Adama,2024-01-10 23:00:00,Electronics
+CID00241,Car Seat Cover,TX000241,Female,9,203.99,Addis Ababa,2024-01-11 00:00:00,Automotive
+CID00242,Canon EOS R5 Camera,TX000242,Male,9,148.28,Jimma,2024-01-11 01:00:00,Electronics
+CID00243,Desk Organizer,TX000243,Male,2,313.12,Jimma,2024-01-11 02:00:00,Office Supplies
+CID00244,Desk Organizer,TX000244,Male,4,410.59,Addis Ababa,2024-01-11 03:00:00,Office Supplies
+CID00245,Fitbit Charge 5,TX000245,Male,4,220.8,Adama,2024-01-11 04:00:00,Electronics
+CID00246,Car Seat Cover,TX000246,Male,2,236.77,Addis Ababa,2024-01-11 05:00:00,Automotive
+CID00247,Monopoly Board Game,TX000247,Female,5,68.52,Dire Dawa,2024-01-11 06:00:00,Toys
+CID00248,L’Oreal Face Cream,TX000248,Male,7,198.43,Bahir Dar,2024-01-11 07:00:00,Beauty
+CID00249,Sony PlayStation 5,TX000249,Male,2,452.65,Adama,2024-01-11 08:00:00,Toys
+CID00250,Jabra Elite 75t,TX000250,Male,9,152.59,Jimma,2024-01-11 09:00:00,Electronics
+CID00251,Puma Running Shoes,TX000251,Male,1,433.0,Jimma,2024-01-11 10:00:00,Clothing
+CID00252,Adidas Ultraboost,TX000252,Male,9,472.01,Hawassa,2024-01-11 11:00:00,Clothing
+CID00253,Jabra Elite 75t,TX000253,Female,9,300.81,Bahir Dar,2024-01-11 12:00:00,Electronics
+CID00254,L’Oreal Face Cream,TX000254,Female,1,36.18,Hawassa,2024-01-11 13:00:00,Beauty
+CID00255,Seiko Watch,TX000255,Male,3,341.63,Bahir Dar,2024-01-11 14:00:00,Accessories
+CID00256,Canon EOS R5 Camera,TX000256,Female,7,17.47,Jimma,2024-01-11 15:00:00,Electronics
+CID00257,GoPro Hero 11,TX000257,Male,9,200.7,Hawassa,2024-01-11 16:00:00,Electronics
+CID00258,KitchenAid Mixer,TX000258,Female,7,174.91,Addis Ababa,2024-01-11 17:00:00,Home Appliances
+CID00259,Maybelline Mascara,TX000259,Male,5,288.64,Bahir Dar,2024-01-11 18:00:00,Beauty
+CID00260,Sony PlayStation 5,TX000260,Female,5,214.58,Addis Ababa,2024-01-11 19:00:00,Toys
+CID00261,Sony PlayStation 5,TX000261,Male,6,499.04,Hawassa,2024-01-11 20:00:00,Toys
+CID00262,Dell XPS 13 Laptop,TX000262,Female,2,327.62,Dire Dawa,2024-01-11 21:00:00,Electronics
+CID00263,Jabra Elite 75t,TX000263,Female,7,478.58,Adama,2024-01-11 22:00:00,Electronics
+CID00264,LG Refrigerator,TX000264,Male,7,90.87,Hawassa,2024-01-11 23:00:00,Home Appliances
+CID00265,iPhone 14,TX000265,Male,1,262.68,Hawassa,2024-01-12 00:00:00,Electronics
+CID00266,iPhone 14,TX000266,Male,5,357.41,Adama,2024-01-12 01:00:00,Electronics
+CID00267,Blender Bottle,TX000267,Male,8,492.35,Addis Ababa,2024-01-12 02:00:00,Groceries
+CID00268,Maybelline Mascara,TX000268,Male,7,477.39,Jimma,2024-01-12 03:00:00,Beauty
+CID00269,Asus ROG Gaming Laptop,TX000269,Male,1,416.48,Adama,2024-01-12 04:00:00,Electronics
+CID00270,Desk Organizer,TX000270,Male,5,219.49,Jimma,2024-01-12 05:00:00,Office Supplies
+CID00271,Car Seat Cover,TX000271,Female,5,99.08,Addis Ababa,2024-01-12 06:00:00,Automotive
+CID00272,Sony Bravia 4K TV,TX000272,Female,8,323.68,Dire Dawa,2024-01-12 07:00:00,Electronics
+CID00273,LG Refrigerator,TX000273,Male,5,63.33,Hawassa,2024-01-12 08:00:00,Home Appliances
+CID00274,Seiko Watch,TX000274,Male,4,396.31,Dire Dawa,2024-01-12 09:00:00,Accessories
+CID00275,iPhone 14,TX000275,Male,5,198.74,Jimma,2024-01-12 10:00:00,Electronics
+CID00276,Maybelline Mascara,TX000276,Female,5,417.85,Jimma,2024-01-12 11:00:00,Beauty
+CID00277,Philips Hue Smart Bulbs,TX000277,Male,1,323.21,Bahir Dar,2024-01-12 12:00:00,Home Appliances
+CID00278,L’Oreal Face Cream,TX000278,Female,2,37.53,Addis Ababa,2024-01-12 13:00:00,Beauty
+CID00279,LG Refrigerator,TX000279,Male,4,327.31,Hawassa,2024-01-12 14:00:00,Home Appliances
+CID00280,Oculus Quest 2,TX000280,Male,6,439.15,Dire Dawa,2024-01-12 15:00:00,Electronics
+CID00281,Sony Bravia 4K TV,TX000281,Male,6,149.58,Dire Dawa,2024-01-12 16:00:00,Electronics
+CID00282,Wilson Tennis Racket,TX000282,Male,2,270.84,Dire Dawa,2024-01-12 17:00:00,Sports
+CID00283,Yoga Mat,TX000283,Female,2,458.12,Adama,2024-01-12 18:00:00,Sports
+CID00284,LG Refrigerator,TX000284,Female,5,257.75,Dire Dawa,2024-01-12 19:00:00,Home Appliances
+CID00285,Samsung Galaxy S23,TX000285,Male,2,220.77,Hawassa,2024-01-12 20:00:00,Electronics
+CID00286,Bose SoundLink Speaker,TX000286,Male,2,172.89,Hawassa,2024-01-12 21:00:00,Electronics
+CID00287,Samsung Galaxy S23,TX000287,Male,7,267.76,Jimma,2024-01-12 22:00:00,Electronics
+CID00288,KitchenAid Mixer,TX000288,Female,8,363.77,Addis Ababa,2024-01-12 23:00:00,Home Appliances
+CID00289,Seiko Watch,TX000289,Male,2,19.33,Adama,2024-01-13 00:00:00,Accessories
+CID00290,TCL Smart TV,TX000290,Female,8,245.95,Bahir Dar,2024-01-13 01:00:00,Electronics
+CID00291,Harry Potter Box Set,TX000291,Male,3,208.91,Hawassa,2024-01-13 02:00:00,Books
+CID00292,Dell XPS 13 Laptop,TX000292,Male,3,334.58,Dire Dawa,2024-01-13 03:00:00,Electronics
+CID00293,iPhone 14,TX000293,Male,3,238.65,Jimma,2024-01-13 04:00:00,Electronics
+CID00294,Jabra Elite 75t,TX000294,Male,9,97.66,Jimma,2024-01-13 05:00:00,Electronics
+CID00295,Maybelline Mascara,TX000295,Female,9,449.26,Dire Dawa,2024-01-13 06:00:00,Beauty
+CID00296,Monopoly Board Game,TX000296,Female,6,79.84,Addis Ababa,2024-01-13 07:00:00,Toys
+CID00297,Philips Hue Smart Bulbs,TX000297,Female,4,276.94,Dire Dawa,2024-01-13 08:00:00,Home Appliances
+CID00298,KitchenAid Mixer,TX000298,Female,6,327.36,Dire Dawa,2024-01-13 09:00:00,Home Appliances
+CID00299,Philips Hue Smart Bulbs,TX000299,Female,8,203.41,Adama,2024-01-13 10:00:00,Home Appliances
+CID00300,Smeg Coffee Machine,TX000300,Female,9,229.32,Bahir Dar,2024-01-13 11:00:00,Home Appliances
+CID00301,Asus ROG Gaming Laptop,TX000301,Male,6,160.2,Addis Ababa,2024-01-13 12:00:00,Electronics
+CID00302,Under Armour Hoodie,TX000302,Male,7,103.28,Adama,2024-01-13 13:00:00,Clothing
+CID00303,LG Refrigerator,TX000303,Female,3,29.47,Hawassa,2024-01-13 14:00:00,Home Appliances
+CID00304,Wilson Tennis Racket,TX000304,Male,2,267.52,Addis Ababa,2024-01-13 15:00:00,Sports
+CID00305,KitchenAid Mixer,TX000305,Female,7,178.42,Jimma,2024-01-13 16:00:00,Home Appliances
+CID00306,Bose SoundLink Speaker,TX000306,Female,3,270.84,Hawassa,2024-01-13 17:00:00,Electronics
+CID00307,Fitbit Charge 5,TX000307,Female,5,61.35,Jimma,2024-01-13 18:00:00,Electronics
+CID00308,Samsung Galaxy S23,TX000308,Male,6,319.63,Bahir Dar,2024-01-13 19:00:00,Electronics
+CID00309,Samsung Smartwatch,TX000309,Male,5,333.22,Adama,2024-01-13 20:00:00,Electronics
+CID00310,Nike Air Max,TX000310,Male,7,383.91,Jimma,2024-01-13 21:00:00,Clothing
+CID00311,Desk Organizer,TX000311,Male,9,425.48,Jimma,2024-01-13 22:00:00,Office Supplies
+CID00312,LG Refrigerator,TX000312,Male,5,273.44,Hawassa,2024-01-13 23:00:00,Home Appliances
+CID00313,Bose QuietComfort 35,TX000313,Male,5,353.53,Hawassa,2024-01-14 00:00:00,Electronics
+CID00314,Wilson Tennis Racket,TX000314,Male,4,351.63,Addis Ababa,2024-01-14 01:00:00,Sports
+CID00315,Levi’s 501 Jeans,TX000315,Male,1,323.05,Adama,2024-01-14 02:00:00,Clothing
+CID00316,Smeg Coffee Machine,TX000316,Female,1,160.65,Addis Ababa,2024-01-14 03:00:00,Home Appliances
+CID00317,Vitamix Blender,TX000317,Male,6,219.29,Hawassa,2024-01-14 04:00:00,Home Appliances
+CID00318,Smeg Coffee Machine,TX000318,Female,9,199.81,Dire Dawa,2024-01-14 05:00:00,Home Appliances
+CID00319,Office Chair,TX000319,Female,6,484.23,Bahir Dar,2024-01-14 06:00:00,Furniture
+CID00320,Under Armour Hoodie,TX000320,Male,1,153.64,Adama,2024-01-14 07:00:00,Clothing
+CID00321,Under Armour Hoodie,TX000321,Male,6,97.81,Adama,2024-01-14 08:00:00,Clothing
+CID00322,Bose QuietComfort 35,TX000322,Male,1,453.9,Hawassa,2024-01-14 09:00:00,Electronics
+CID00323,Smeg Coffee Machine,TX000323,Male,7,211.59,Adama,2024-01-14 10:00:00,Home Appliances
+CID00324,Sony PlayStation 5,TX000324,Female,7,272.07,Addis Ababa,2024-01-14 11:00:00,Toys
+CID00325,Harry Potter Box Set,TX000325,Female,5,442.83,Addis Ababa,2024-01-14 12:00:00,Books
+CID00326,TCL Smart TV,TX000326,Female,6,90.91,Adama,2024-01-14 13:00:00,Electronics
+CID00327,Apple Watch Series 8,TX000327,Female,9,39.69,Bahir Dar,2024-01-14 14:00:00,Electronics
+CID00328,iPhone 14,TX000328,Female,2,131.62,Dire Dawa,2024-01-14 15:00:00,Electronics
+CID00329,Monopoly Board Game,TX000329,Male,2,277.75,Dire Dawa,2024-01-14 16:00:00,Toys
+CID00330,Canon EOS R5 Camera,TX000330,Female,7,252.4,Adama,2024-01-14 17:00:00,Electronics
+CID00331,Maybelline Mascara,TX000331,Female,7,352.27,Hawassa,2024-01-14 18:00:00,Beauty
+CID00332,Dell XPS 13 Laptop,TX000332,Female,6,299.72,Jimma,2024-01-14 19:00:00,Electronics
+CID00333,Nintendo Switch,TX000333,Female,1,160.06,Adama,2024-01-14 20:00:00,Toys
+CID00334,Asus ROG Gaming Laptop,TX000334,Male,1,82.08,Dire Dawa,2024-01-14 21:00:00,Electronics
+CID00335,Office Chair,TX000335,Male,7,104.83,Hawassa,2024-01-14 22:00:00,Furniture
+CID00336,Wilson Tennis Racket,TX000336,Female,2,180.69,Addis Ababa,2024-01-14 23:00:00,Sports
+CID00337,Sony Bravia 4K TV,TX000337,Female,9,342.52,Dire Dawa,2024-01-15 00:00:00,Electronics
+CID00338,Yoga Mat,TX000338,Male,6,202.26,Jimma,2024-01-15 01:00:00,Sports
+CID00339,Samsung Smartwatch,TX000339,Female,3,372.35,Dire Dawa,2024-01-15 02:00:00,Electronics
+CID00340,L’Oreal Face Cream,TX000340,Male,9,210.38,Hawassa,2024-01-15 03:00:00,Beauty
+CID00341,Oculus Quest 2,TX000341,Male,4,194.36,Addis Ababa,2024-01-15 04:00:00,Electronics
+CID00342,Office Chair,TX000342,Female,4,430.52,Adama,2024-01-15 05:00:00,Furniture
+CID00343,Sony Bravia 4K TV,TX000343,Female,8,56.8,Bahir Dar,2024-01-15 06:00:00,Electronics
+CID00344,Levi’s Jacket,TX000344,Male,2,233.43,Adama,2024-01-15 07:00:00,Clothing
+CID00345,Levi’s 501 Jeans,TX000345,Female,4,158.44,Addis Ababa,2024-01-15 08:00:00,Clothing
+CID00346,Bose SoundLink Speaker,TX000346,Female,9,185.87,Bahir Dar,2024-01-15 09:00:00,Electronics
+CID00347,LG Refrigerator,TX000347,Female,1,331.61,Adama,2024-01-15 10:00:00,Home Appliances
+CID00348,Levi’s Jacket,TX000348,Male,9,351.53,Dire Dawa,2024-01-15 11:00:00,Clothing
+CID00349,Under Armour Hoodie,TX000349,Male,5,116.07,Hawassa,2024-01-15 12:00:00,Clothing
+CID00350,Maybelline Mascara,TX000350,Male,4,369.45,Jimma,2024-01-15 13:00:00,Beauty
+CID00351,KitchenAid Mixer,TX000351,Female,2,17.5,Dire Dawa,2024-01-15 14:00:00,Home Appliances
+CID00352,Seiko Watch,TX000352,Male,8,190.07,Bahir Dar,2024-01-15 15:00:00,Accessories
+CID00353,Sony PlayStation 5,TX000353,Male,5,36.98,Addis Ababa,2024-01-15 16:00:00,Toys
+CID00354,Yoga Mat,TX000354,Female,5,308.73,Addis Ababa,2024-01-15 17:00:00,Sports
+CID00355,Seiko Watch,TX000355,Male,4,191.21,Jimma,2024-01-15 18:00:00,Accessories
+CID00356,Jabra Elite 75t,TX000356,Female,4,247.55,Hawassa,2024-01-15 19:00:00,Electronics
+CID00357,Jabra Elite 75t,TX000357,Male,8,100.19,Hawassa,2024-01-15 20:00:00,Electronics
+CID00358,Smeg Coffee Machine,TX000358,Female,3,110.48,Dire Dawa,2024-01-15 21:00:00,Home Appliances
+CID00359,Office Chair,TX000359,Male,6,429.01,Hawassa,2024-01-15 22:00:00,Furniture
+CID00360,Fitbit Charge 5,TX000360,Female,4,134.81,Dire Dawa,2024-01-15 23:00:00,Electronics
+CID00361,Monopoly Board Game,TX000361,Female,7,95.36,Hawassa,2024-01-16 00:00:00,Toys
+CID00362,Blender Bottle,TX000362,Female,6,348.86,Adama,2024-01-16 01:00:00,Groceries
+CID00363,Nintendo Switch,TX000363,Male,5,427.79,Jimma,2024-01-16 02:00:00,Toys
+CID00364,Samsung Galaxy S23,TX000364,Female,5,483.56,Bahir Dar,2024-01-16 03:00:00,Electronics
+CID00365,Blender Bottle,TX000365,Female,1,401.58,Dire Dawa,2024-01-16 04:00:00,Groceries
+CID00366,Monopoly Board Game,TX000366,Male,8,13.36,Addis Ababa,2024-01-16 05:00:00,Toys
+CID00367,Under Armour Hoodie,TX000367,Female,1,213.83,Dire Dawa,2024-01-16 06:00:00,Clothing
+CID00368,GoPro Hero 11,TX000368,Female,7,414.05,Addis Ababa,2024-01-16 07:00:00,Electronics
+CID00369,Car Seat Cover,TX000369,Male,4,272.48,Addis Ababa,2024-01-16 08:00:00,Automotive
+CID00370,Jabra Elite 75t,TX000370,Female,1,128.97,Addis Ababa,2024-01-16 09:00:00,Electronics
+CID00371,Under Armour Hoodie,TX000371,Female,2,489.35,Adama,2024-01-16 10:00:00,Clothing
+CID00372,Puma Running Shoes,TX000372,Male,2,390.82,Dire Dawa,2024-01-16 11:00:00,Clothing
+CID00373,Philips Hue Smart Bulbs,TX000373,Female,7,483.73,Bahir Dar,2024-01-16 12:00:00,Home Appliances
+CID00374,Monopoly Board Game,TX000374,Male,9,494.12,Dire Dawa,2024-01-16 13:00:00,Toys
+CID00375,Fossil Watch,TX000375,Male,5,193.36,Adama,2024-01-16 14:00:00,Accessories
+CID00376,Apple Watch Series 8,TX000376,Male,5,414.08,Adama,2024-01-16 15:00:00,Electronics
+CID00377,Under Armour Hoodie,TX000377,Male,3,315.72,Hawassa,2024-01-16 16:00:00,Clothing
+CID00378,Blender Bottle,TX000378,Male,3,443.42,Jimma,2024-01-16 17:00:00,Groceries
+CID00379,Blender Bottle,TX000379,Male,1,340.54,Addis Ababa,2024-01-16 18:00:00,Groceries
+CID00380,L’Oreal Face Cream,TX000380,Female,4,468.64,Adama,2024-01-16 19:00:00,Beauty
+CID00381,Maybelline Mascara,TX000381,Female,7,341.7,Bahir Dar,2024-01-16 20:00:00,Beauty
+CID00382,Monopoly Board Game,TX000382,Male,4,187.92,Bahir Dar,2024-01-16 21:00:00,Toys
+CID00383,Apple Watch Series 8,TX000383,Female,9,29.62,Hawassa,2024-01-16 22:00:00,Electronics
+CID00384,Sony PlayStation 5,TX000384,Male,9,416.81,Hawassa,2024-01-16 23:00:00,Toys
+CID00385,L’Oreal Face Cream,TX000385,Female,7,329.57,Hawassa,2024-01-17 00:00:00,Beauty
+CID00386,Levi’s 501 Jeans,TX000386,Female,8,333.6,Jimma,2024-01-17 01:00:00,Clothing
+CID00387,Sony PlayStation 5,TX000387,Male,6,75.34,Addis Ababa,2024-01-17 02:00:00,Toys
+CID00388,Samsung Galaxy S23,TX000388,Male,4,25.37,Adama,2024-01-17 03:00:00,Electronics
+CID00389,Jabra Elite 75t,TX000389,Male,1,16.99,Addis Ababa,2024-01-17 04:00:00,Electronics
+CID00390,Sony Bravia 4K TV,TX000390,Female,5,159.99,Bahir Dar,2024-01-17 05:00:00,Electronics
+CID00391,GoPro Hero 11,TX000391,Male,1,291.15,Hawassa,2024-01-17 06:00:00,Electronics
+CID00392,Office Chair,TX000392,Female,3,306.69,Bahir Dar,2024-01-17 07:00:00,Furniture
+CID00393,Puma Running Shoes,TX000393,Female,8,75.29,Adama,2024-01-17 08:00:00,Clothing
+CID00394,Puma Running Shoes,TX000394,Female,1,188.44,Bahir Dar,2024-01-17 09:00:00,Clothing
+CID00395,Yoga Mat,TX000395,Female,3,110.94,Addis Ababa,2024-01-17 10:00:00,Sports
+CID00396,LG Refrigerator,TX000396,Female,4,436.48,Jimma,2024-01-17 11:00:00,Home Appliances
+CID00397,TCL Smart TV,TX000397,Female,5,114.01,Jimma,2024-01-17 12:00:00,Electronics
+CID00398,Levi’s 501 Jeans,TX000398,Female,8,255.69,Dire Dawa,2024-01-17 13:00:00,Clothing
+CID00399,Nintendo Switch,TX000399,Male,9,289.07,Bahir Dar,2024-01-17 14:00:00,Toys
+CID00400,Smeg Coffee Machine,TX000400,Female,5,201.5,Bahir Dar,2024-01-17 15:00:00,Home Appliances
+CID00401,Levi’s Jacket,TX000401,Male,7,220.5,Addis Ababa,2024-01-17 16:00:00,Clothing
+CID00402,Yoga Mat,TX000402,Female,6,411.84,Jimma,2024-01-17 17:00:00,Sports
+CID00403,Asus ROG Gaming Laptop,TX000403,Female,6,136.38,Addis Ababa,2024-01-17 18:00:00,Electronics
+CID00404,Seiko Watch,TX000404,Male,7,456.09,Jimma,2024-01-17 19:00:00,Accessories
+CID00405,Smeg Coffee Machine,TX000405,Male,4,463.39,Adama,2024-01-17 20:00:00,Home Appliances
+CID00406,Canon EOS R5 Camera,TX000406,Male,1,450.24,Bahir Dar,2024-01-17 21:00:00,Electronics
+CID00407,Office Chair,TX000407,Female,3,387.11,Adama,2024-01-17 22:00:00,Furniture
+CID00408,Jabra Elite 75t,TX000408,Female,9,116.68,Bahir Dar,2024-01-17 23:00:00,Electronics
+CID00409,L’Oreal Face Cream,TX000409,Female,9,146.09,Hawassa,2024-01-18 00:00:00,Beauty
+CID00410,Yoga Mat,TX000410,Male,8,389.93,Hawassa,2024-01-18 01:00:00,Sports
+CID00411,Vitamix Blender,TX000411,Female,1,141.15,Adama,2024-01-18 02:00:00,Home Appliances
+CID00412,Sony PlayStation 5,TX000412,Male,4,200.7,Hawassa,2024-01-18 03:00:00,Toys
+CID00413,Yoga Mat,TX000413,Female,6,480.58,Dire Dawa,2024-01-18 04:00:00,Sports
+CID00414,Levi’s Jacket,TX000414,Male,4,36.23,Bahir Dar,2024-01-18 05:00:00,Clothing
+CID00415,LG Refrigerator,TX000415,Female,2,400.62,Jimma,2024-01-18 06:00:00,Home Appliances
+CID00416,Under Armour Hoodie,TX000416,Female,6,73.2,Addis Ababa,2024-01-18 07:00:00,Clothing
+CID00417,Philips Hue Smart Bulbs,TX000417,Male,3,379.85,Adama,2024-01-18 08:00:00,Home Appliances
+CID00418,Levi’s 501 Jeans,TX000418,Male,6,320.05,Hawassa,2024-01-18 09:00:00,Clothing
+CID00419,Maybelline Mascara,TX000419,Female,3,87.3,Bahir Dar,2024-01-18 10:00:00,Beauty
+CID00420,Smeg Coffee Machine,TX000420,Male,6,366.94,Hawassa,2024-01-18 11:00:00,Home Appliances
+CID00421,Samsung Smartwatch,TX000421,Female,1,245.96,Dire Dawa,2024-01-18 12:00:00,Electronics
+CID00422,iPhone 14,TX000422,Male,3,248.42,Adama,2024-01-18 13:00:00,Electronics
+CID00423,LG Refrigerator,TX000423,Male,3,93.93,Addis Ababa,2024-01-18 14:00:00,Home Appliances
+CID00424,Car Seat Cover,TX000424,Female,8,373.96,Adama,2024-01-18 15:00:00,Automotive
+CID00425,Asus ROG Gaming Laptop,TX000425,Female,7,285.54,Jimma,2024-01-18 16:00:00,Electronics
+CID00426,Under Armour Hoodie,TX000426,Male,4,309.91,Hawassa,2024-01-18 17:00:00,Clothing
+CID00427,Under Armour Hoodie,TX000427,Male,7,25.76,Hawassa,2024-01-18 18:00:00,Clothing
+CID00428,Oculus Quest 2,TX000428,Female,8,101.23,Hawassa,2024-01-18 19:00:00,Electronics
+CID00429,Maybelline Mascara,TX000429,Male,7,378.4,Adama,2024-01-18 20:00:00,Beauty
+CID00430,KitchenAid Mixer,TX000430,Female,3,444.98,Jimma,2024-01-18 21:00:00,Home Appliances
+CID00431,LG Refrigerator,TX000431,Male,3,212.51,Hawassa,2024-01-18 22:00:00,Home Appliances
+CID00432,Yoga Mat,TX000432,Male,3,386.84,Hawassa,2024-01-18 23:00:00,Sports
+CID00433,Levi’s Jacket,TX000433,Female,2,368.09,Addis Ababa,2024-01-19 00:00:00,Clothing
+CID00434,Fossil Watch,TX000434,Male,7,439.47,Bahir Dar,2024-01-19 01:00:00,Accessories
+CID00435,L’Oreal Face Cream,TX000435,Male,8,67.93,Dire Dawa,2024-01-19 02:00:00,Beauty
+CID00436,iPhone 14,TX000436,Male,7,422.75,Addis Ababa,2024-01-19 03:00:00,Electronics
+CID00437,Blender Bottle,TX000437,Male,8,233.7,Bahir Dar,2024-01-19 04:00:00,Groceries
+CID00438,Wilson Tennis Racket,TX000438,Male,4,372.36,Dire Dawa,2024-01-19 05:00:00,Sports
+CID00439,L’Oreal Face Cream,TX000439,Male,2,240.73,Bahir Dar,2024-01-19 06:00:00,Beauty
+CID00440,Adidas Ultraboost,TX000440,Male,5,356.92,Addis Ababa,2024-01-19 07:00:00,Clothing
+CID00441,Car Seat Cover,TX000441,Female,2,246.79,Adama,2024-01-19 08:00:00,Automotive
+CID00442,Monopoly Board Game,TX000442,Female,8,385.51,Adama,2024-01-19 09:00:00,Toys
+CID00443,Asus ROG Gaming Laptop,TX000443,Male,1,71.82,Hawassa,2024-01-19 10:00:00,Electronics
+CID00444,Bose QuietComfort 35,TX000444,Female,1,290.5,Hawassa,2024-01-19 11:00:00,Electronics
+CID00445,Asus ROG Gaming Laptop,TX000445,Female,4,470.24,Bahir Dar,2024-01-19 12:00:00,Electronics
+CID00446,Nike Air Max,TX000446,Male,1,29.91,Bahir Dar,2024-01-19 13:00:00,Clothing
+CID00447,GoPro Hero 11,TX000447,Male,3,91.75,Adama,2024-01-19 14:00:00,Electronics
+CID00448,Sony PlayStation 5,TX000448,Male,2,136.55,Dire Dawa,2024-01-19 15:00:00,Toys
+CID00449,Vitamix Blender,TX000449,Female,7,333.07,Adama,2024-01-19 16:00:00,Home Appliances
+CID00450,Harry Potter Box Set,TX000450,Female,9,379.81,Hawassa,2024-01-19 17:00:00,Books
+CID00451,Puma Running Shoes,TX000451,Female,6,289.9,Hawassa,2024-01-19 18:00:00,Clothing
+CID00452,LG Refrigerator,TX000452,Male,4,372.92,Bahir Dar,2024-01-19 19:00:00,Home Appliances
+CID00453,Fossil Watch,TX000453,Male,5,482.1,Dire Dawa,2024-01-19 20:00:00,Accessories
+CID00454,Nintendo Switch,TX000454,Female,5,449.53,Hawassa,2024-01-19 21:00:00,Toys
+CID00455,Wilson Tennis Racket,TX000455,Male,5,224.59,Adama,2024-01-19 22:00:00,Sports
+CID00456,Fitbit Charge 5,TX000456,Male,6,223.82,Addis Ababa,2024-01-19 23:00:00,Electronics
+CID00457,KitchenAid Mixer,TX000457,Female,3,263.51,Dire Dawa,2024-01-20 00:00:00,Home Appliances
+CID00458,KitchenAid Mixer,TX000458,Female,4,87.29,Adama,2024-01-20 01:00:00,Home Appliances
+CID00459,Asus ROG Gaming Laptop,TX000459,Female,7,321.18,Hawassa,2024-01-20 02:00:00,Electronics
+CID00460,Levi’s Jacket,TX000460,Female,3,246.37,Addis Ababa,2024-01-20 03:00:00,Clothing
+CID00461,Fitbit Charge 5,TX000461,Female,1,270.9,Adama,2024-01-20 04:00:00,Electronics
+CID00462,Nintendo Switch,TX000462,Female,2,440.03,Dire Dawa,2024-01-20 05:00:00,Toys
+CID00463,Harry Potter Box Set,TX000463,Male,9,491.32,Hawassa,2024-01-20 06:00:00,Books
+CID00464,Sony PlayStation 5,TX000464,Female,3,323.93,Adama,2024-01-20 07:00:00,Toys
+CID00465,Canon EOS R5 Camera,TX000465,Female,9,152.85,Bahir Dar,2024-01-20 08:00:00,Electronics
+CID00466,Puma Running Shoes,TX000466,Female,6,351.46,Hawassa,2024-01-20 09:00:00,Clothing
+CID00467,Nintendo Switch,TX000467,Male,4,320.9,Dire Dawa,2024-01-20 10:00:00,Toys
+CID00468,Vitamix Blender,TX000468,Male,5,442.74,Jimma,2024-01-20 11:00:00,Home Appliances
+CID00469,Wilson Tennis Racket,TX000469,Female,1,229.05,Addis Ababa,2024-01-20 12:00:00,Sports
+CID00470,Smeg Coffee Machine,TX000470,Female,3,284.35,Jimma,2024-01-20 13:00:00,Home Appliances
+CID00471,Fossil Watch,TX000471,Female,8,187.54,Hawassa,2024-01-20 14:00:00,Accessories
+CID00472,TCL Smart TV,TX000472,Male,9,353.11,Addis Ababa,2024-01-20 15:00:00,Electronics
+CID00473,Jabra Elite 75t,TX000473,Male,6,208.29,Bahir Dar,2024-01-20 16:00:00,Electronics
+CID00474,Levi’s Jacket,TX000474,Male,1,494.29,Dire Dawa,2024-01-20 17:00:00,Clothing
+CID00475,Vitamix Blender,TX000475,Female,4,90.42,Addis Ababa,2024-01-20 18:00:00,Home Appliances
+CID00476,Adidas Ultraboost,TX000476,Female,1,489.68,Adama,2024-01-20 19:00:00,Clothing
+CID00477,Harry Potter Box Set,TX000477,Male,8,170.12,Adama,2024-01-20 20:00:00,Books
+CID00478,Sony Bravia 4K TV,TX000478,Female,5,178.13,Hawassa,2024-01-20 21:00:00,Electronics
+CID00479,Car Seat Cover,TX000479,Male,3,20.21,Dire Dawa,2024-01-20 22:00:00,Automotive
+CID00480,KitchenAid Mixer,TX000480,Male,4,148.08,Addis Ababa,2024-01-20 23:00:00,Home Appliances
+CID00481,Wilson Tennis Racket,TX000481,Male,1,297.49,Jimma,2024-01-21 00:00:00,Sports
+CID00482,Philips Hue Smart Bulbs,TX000482,Male,3,164.36,Bahir Dar,2024-01-21 01:00:00,Home Appliances
+CID00483,GoPro Hero 11,TX000483,Female,6,279.95,Jimma,2024-01-21 02:00:00,Electronics
+CID00484,Jabra Elite 75t,TX000484,Female,3,265.67,Bahir Dar,2024-01-21 03:00:00,Electronics
+CID00485,Asus ROG Gaming Laptop,TX000485,Male,9,93.98,Adama,2024-01-21 04:00:00,Electronics
+CID00486,Blender Bottle,TX000486,Female,8,298.12,Adama,2024-01-21 05:00:00,Groceries
+CID00487,Jabra Elite 75t,TX000487,Male,4,100.7,Addis Ababa,2024-01-21 06:00:00,Electronics
+CID00488,Dell XPS 13 Laptop,TX000488,Male,4,488.32,Addis Ababa,2024-01-21 07:00:00,Electronics
+CID00489,Yoga Mat,TX000489,Female,9,273.2,Dire Dawa,2024-01-21 08:00:00,Sports
+CID00490,Harry Potter Box Set,TX000490,Male,9,31.76,Hawassa,2024-01-21 09:00:00,Books
+CID00491,Monopoly Board Game,TX000491,Female,1,449.48,Dire Dawa,2024-01-21 10:00:00,Toys
+CID00492,Fossil Watch,TX000492,Male,4,390.29,Hawassa,2024-01-21 11:00:00,Accessories
+CID00493,Samsung Smartwatch,TX000493,Female,4,98.01,Adama,2024-01-21 12:00:00,Electronics
+CID00494,Oculus Quest 2,TX000494,Female,6,76.96,Jimma,2024-01-21 13:00:00,Electronics
+CID00495,Oculus Quest 2,TX000495,Female,9,62.5,Hawassa,2024-01-21 14:00:00,Electronics
+CID00496,Bose SoundLink Speaker,TX000496,Female,5,344.2,Adama,2024-01-21 15:00:00,Electronics
+CID00497,Dell XPS 13 Laptop,TX000497,Male,4,221.61,Addis Ababa,2024-01-21 16:00:00,Electronics
+CID00498,TCL Smart TV,TX000498,Female,7,28.81,Addis Ababa,2024-01-21 17:00:00,Electronics
+CID00499,Bose SoundLink Speaker,TX000499,Male,3,437.94,Bahir Dar,2024-01-21 18:00:00,Electronics
+CID00500,Nike Air Max,TX000500,Male,1,112.29,Dire Dawa,2024-01-21 19:00:00,Clothing
+CID00501,Monopoly Board Game,TX000501,Male,2,352.77,Hawassa,2024-01-21 20:00:00,Toys
+CID00502,Dell XPS 13 Laptop,TX000502,Female,2,265.23,Dire Dawa,2024-01-21 21:00:00,Electronics
+CID00503,Blender Bottle,TX000503,Female,9,130.22,Addis Ababa,2024-01-21 22:00:00,Groceries
+CID00504,Asus ROG Gaming Laptop,TX000504,Male,9,206.78,Bahir Dar,2024-01-21 23:00:00,Electronics
+CID00505,Samsung Smartwatch,TX000505,Female,6,21.34,Bahir Dar,2024-01-22 00:00:00,Electronics
+CID00506,Sony PlayStation 5,TX000506,Female,6,270.21,Jimma,2024-01-22 01:00:00,Toys
+CID00507,Canon EOS R5 Camera,TX000507,Female,1,281.06,Addis Ababa,2024-01-22 02:00:00,Electronics
+CID00508,Philips Hue Smart Bulbs,TX000508,Female,2,24.96,Adama,2024-01-22 03:00:00,Home Appliances
+CID00509,iPhone 14,TX000509,Male,6,249.79,Hawassa,2024-01-22 04:00:00,Electronics
+CID00510,Desk Organizer,TX000510,Female,8,333.69,Adama,2024-01-22 05:00:00,Office Supplies
+CID00511,Vitamix Blender,TX000511,Male,7,433.94,Hawassa,2024-01-22 06:00:00,Home Appliances
+CID00512,Vitamix Blender,TX000512,Male,9,324.57,Jimma,2024-01-22 07:00:00,Home Appliances
+CID00513,Oculus Quest 2,TX000513,Male,2,153.39,Dire Dawa,2024-01-22 08:00:00,Electronics
+CID00514,Seiko Watch,TX000514,Male,9,176.15,Bahir Dar,2024-01-22 09:00:00,Accessories
+CID00515,Fossil Watch,TX000515,Male,2,60.54,Bahir Dar,2024-01-22 10:00:00,Accessories
+CID00516,Fitbit Charge 5,TX000516,Female,2,417.26,Hawassa,2024-01-22 11:00:00,Electronics
+CID00517,Fossil Watch,TX000517,Female,6,201.5,Hawassa,2024-01-22 12:00:00,Accessories
+CID00518,Wilson Tennis Racket,TX000518,Female,5,27.8,Adama,2024-01-22 13:00:00,Sports
+CID00519,Fitbit Charge 5,TX000519,Male,7,259.22,Hawassa,2024-01-22 14:00:00,Electronics
+CID00520,Wilson Tennis Racket,TX000520,Female,1,393.86,Adama,2024-01-22 15:00:00,Sports
+CID00521,Asus ROG Gaming Laptop,TX000521,Female,5,245.97,Bahir Dar,2024-01-22 16:00:00,Electronics
+CID00522,L’Oreal Face Cream,TX000522,Female,3,435.11,Jimma,2024-01-22 17:00:00,Beauty
+CID00523,Puma Running Shoes,TX000523,Female,3,467.52,Dire Dawa,2024-01-22 18:00:00,Clothing
+CID00524,Levi’s Jacket,TX000524,Female,3,336.36,Addis Ababa,2024-01-22 19:00:00,Clothing
+CID00525,Philips Hue Smart Bulbs,TX000525,Female,2,302.09,Jimma,2024-01-22 20:00:00,Home Appliances
+CID00526,Levi’s 501 Jeans,TX000526,Male,9,429.08,Dire Dawa,2024-01-22 21:00:00,Clothing
+CID00527,Wilson Tennis Racket,TX000527,Female,6,39.12,Hawassa,2024-01-22 22:00:00,Sports
+CID00528,Canon EOS R5 Camera,TX000528,Female,3,364.4,Addis Ababa,2024-01-22 23:00:00,Electronics
+CID00529,Bose QuietComfort 35,TX000529,Female,8,388.84,Bahir Dar,2024-01-23 00:00:00,Electronics
+CID00530,Fossil Watch,TX000530,Female,2,122.6,Dire Dawa,2024-01-23 01:00:00,Accessories
+CID00531,Fitbit Charge 5,TX000531,Female,7,102.87,Adama,2024-01-23 02:00:00,Electronics
+CID00532,Wilson Tennis Racket,TX000532,Male,5,248.46,Hawassa,2024-01-23 03:00:00,Sports
+CID00533,Adidas Ultraboost,TX000533,Male,2,414.95,Dire Dawa,2024-01-23 04:00:00,Clothing
+CID00534,Smeg Coffee Machine,TX000534,Female,9,225.85,Dire Dawa,2024-01-23 05:00:00,Home Appliances
+CID00535,Maybelline Mascara,TX000535,Female,1,118.33,Adama,2024-01-23 06:00:00,Beauty
+CID00536,Maybelline Mascara,TX000536,Male,8,54.81,Addis Ababa,2024-01-23 07:00:00,Beauty
+CID00537,Puma Running Shoes,TX000537,Female,1,288.44,Adama,2024-01-23 08:00:00,Clothing
+CID00538,Fossil Watch,TX000538,Male,6,362.3,Dire Dawa,2024-01-23 09:00:00,Accessories
+CID00539,Fitbit Charge 5,TX000539,Female,5,109.42,Bahir Dar,2024-01-23 10:00:00,Electronics
+CID00540,Fitbit Charge 5,TX000540,Female,3,144.56,Jimma,2024-01-23 11:00:00,Electronics
+CID00541,Canon EOS R5 Camera,TX000541,Female,3,307.2,Hawassa,2024-01-23 12:00:00,Electronics
+CID00542,Under Armour Hoodie,TX000542,Female,5,490.37,Addis Ababa,2024-01-23 13:00:00,Clothing
+CID00543,Monopoly Board Game,TX000543,Male,2,362.19,Bahir Dar,2024-01-23 14:00:00,Toys
+CID00544,GoPro Hero 11,TX000544,Female,9,15.87,Dire Dawa,2024-01-23 15:00:00,Electronics
+CID00545,Levi’s 501 Jeans,TX000545,Female,7,278.58,Hawassa,2024-01-23 16:00:00,Clothing
+CID00546,Adidas Ultraboost,TX000546,Male,2,127.48,Dire Dawa,2024-01-23 17:00:00,Clothing
+CID00547,Levi’s 501 Jeans,TX000547,Female,8,387.03,Adama,2024-01-23 18:00:00,Clothing
+CID00548,Blender Bottle,TX000548,Male,5,226.94,Hawassa,2024-01-23 19:00:00,Groceries
+CID00549,Dell XPS 13 Laptop,TX000549,Male,1,82.22,Bahir Dar,2024-01-23 20:00:00,Electronics
+CID00550,Maybelline Mascara,TX000550,Male,1,22.0,Dire Dawa,2024-01-23 21:00:00,Beauty
+CID00551,Apple Watch Series 8,TX000551,Male,3,122.35,Adama,2024-01-23 22:00:00,Electronics
+CID00552,Sony Bravia 4K TV,TX000552,Female,2,292.59,Adama,2024-01-23 23:00:00,Electronics
+CID00553,Sony Bravia 4K TV,TX000553,Female,3,419.09,Dire Dawa,2024-01-24 00:00:00,Electronics
+CID00554,Asus ROG Gaming Laptop,TX000554,Male,8,175.66,Bahir Dar,2024-01-24 01:00:00,Electronics
+CID00555,Sony Bravia 4K TV,TX000555,Male,8,151.92,Hawassa,2024-01-24 02:00:00,Electronics
+CID00556,Nike Air Max,TX000556,Female,1,355.2,Dire Dawa,2024-01-24 03:00:00,Clothing
+CID00557,Nike T-Shirt,TX000557,Female,3,438.94,Adama,2024-01-24 04:00:00,Clothing
+CID00558,Philips Hue Smart Bulbs,TX000558,Female,4,393.36,Jimma,2024-01-24 05:00:00,Home Appliances
+CID00559,KitchenAid Mixer,TX000559,Female,1,232.42,Jimma,2024-01-24 06:00:00,Home Appliances
+CID00560,Dell XPS 13 Laptop,TX000560,Male,7,323.91,Addis Ababa,2024-01-24 07:00:00,Electronics
+CID00561,Wilson Tennis Racket,TX000561,Male,4,304.26,Jimma,2024-01-24 08:00:00,Sports
+CID00562,Levi’s 501 Jeans,TX000562,Male,9,108.25,Hawassa,2024-01-24 09:00:00,Clothing
+CID00563,Nike Air Max,TX000563,Male,9,494.91,Bahir Dar,2024-01-24 10:00:00,Clothing
+CID00564,Nintendo Switch,TX000564,Male,8,269.73,Hawassa,2024-01-24 11:00:00,Toys
+CID00565,Apple Watch Series 8,TX000565,Female,2,205.35,Bahir Dar,2024-01-24 12:00:00,Electronics
+CID00566,Apple Watch Series 8,TX000566,Female,5,313.47,Dire Dawa,2024-01-24 13:00:00,Electronics
+CID00567,Sony Bravia 4K TV,TX000567,Male,2,220.92,Hawassa,2024-01-24 14:00:00,Electronics
+CID00568,Samsung Galaxy S23,TX000568,Female,8,343.06,Bahir Dar,2024-01-24 15:00:00,Electronics
+CID00569,Canon EOS R5 Camera,TX000569,Female,5,318.79,Bahir Dar,2024-01-24 16:00:00,Electronics
+CID00570,Office Chair,TX000570,Female,1,88.78,Jimma,2024-01-24 17:00:00,Furniture
+CID00571,Wilson Tennis Racket,TX000571,Female,2,96.39,Bahir Dar,2024-01-24 18:00:00,Sports
+CID00572,Under Armour Hoodie,TX000572,Female,7,236.56,Jimma,2024-01-24 19:00:00,Clothing
+CID00573,Car Seat Cover,TX000573,Female,5,224.32,Jimma,2024-01-24 20:00:00,Automotive
+CID00574,Dell XPS 13 Laptop,TX000574,Female,9,31.49,Addis Ababa,2024-01-24 21:00:00,Electronics
+CID00575,Asus ROG Gaming Laptop,TX000575,Male,5,37.38,Addis Ababa,2024-01-24 22:00:00,Electronics
+CID00576,Desk Organizer,TX000576,Female,7,188.74,Adama,2024-01-24 23:00:00,Office Supplies
+CID00577,Yoga Mat,TX000577,Male,5,155.46,Hawassa,2024-01-25 00:00:00,Sports
+CID00578,Nike T-Shirt,TX000578,Male,5,315.95,Addis Ababa,2024-01-25 01:00:00,Clothing
+CID00579,iPhone 14,TX000579,Female,3,474.61,Bahir Dar,2024-01-25 02:00:00,Electronics
+CID00580,Adidas Ultraboost,TX000580,Male,2,434.44,Dire Dawa,2024-01-25 03:00:00,Clothing
+CID00581,Under Armour Hoodie,TX000581,Female,1,169.96,Jimma,2024-01-25 04:00:00,Clothing
+CID00582,Wilson Tennis Racket,TX000582,Male,2,105.04,Dire Dawa,2024-01-25 05:00:00,Sports
+CID00583,LG Refrigerator,TX000583,Male,8,293.66,Jimma,2024-01-25 06:00:00,Home Appliances
+CID00584,Fitbit Charge 5,TX000584,Male,4,50.94,Bahir Dar,2024-01-25 07:00:00,Electronics
+CID00585,Car Seat Cover,TX000585,Male,8,462.12,Addis Ababa,2024-01-25 08:00:00,Automotive
+CID00586,Puma Running Shoes,TX000586,Male,1,491.7,Addis Ababa,2024-01-25 09:00:00,Clothing
+CID00587,Desk Organizer,TX000587,Male,9,473.0,Addis Ababa,2024-01-25 10:00:00,Office Supplies
+CID00588,Asus ROG Gaming Laptop,TX000588,Female,3,393.66,Addis Ababa,2024-01-25 11:00:00,Electronics
+CID00589,Canon EOS R5 Camera,TX000589,Male,4,399.46,Bahir Dar,2024-01-25 12:00:00,Electronics
+CID00590,Philips Hue Smart Bulbs,TX000590,Male,2,70.61,Bahir Dar,2024-01-25 13:00:00,Home Appliances
+CID00591,GoPro Hero 11,TX000591,Female,4,123.24,Bahir Dar,2024-01-25 14:00:00,Electronics
+CID00592,LG Refrigerator,TX000592,Female,5,287.23,Jimma,2024-01-25 15:00:00,Home Appliances
+CID00593,Car Seat Cover,TX000593,Female,8,426.44,Hawassa,2024-01-25 16:00:00,Automotive
+CID00594,TCL Smart TV,TX000594,Male,7,381.01,Adama,2024-01-25 17:00:00,Electronics
+CID00595,Apple Watch Series 8,TX000595,Female,3,479.87,Adama,2024-01-25 18:00:00,Electronics
+CID00596,Nintendo Switch,TX000596,Female,8,428.61,Addis Ababa,2024-01-25 19:00:00,Toys
+CID00597,Desk Organizer,TX000597,Female,8,195.14,Bahir Dar,2024-01-25 20:00:00,Office Supplies
+CID00598,Vitamix Blender,TX000598,Female,5,86.57,Addis Ababa,2024-01-25 21:00:00,Home Appliances
+CID00599,Under Armour Hoodie,TX000599,Female,5,72.69,Dire Dawa,2024-01-25 22:00:00,Clothing
+CID00600,L’Oreal Face Cream,TX000600,Male,4,417.25,Jimma,2024-01-25 23:00:00,Beauty
+CID00601,Office Chair,TX000601,Male,9,50.33,Hawassa,2024-01-26 00:00:00,Furniture
+CID00602,TCL Smart TV,TX000602,Male,8,409.71,Addis Ababa,2024-01-26 01:00:00,Electronics
+CID00603,Smeg Coffee Machine,TX000603,Male,3,432.64,Dire Dawa,2024-01-26 02:00:00,Home Appliances
+CID00604,Fossil Watch,TX000604,Female,9,361.67,Adama,2024-01-26 03:00:00,Accessories
+CID00605,Oculus Quest 2,TX000605,Female,2,327.47,Dire Dawa,2024-01-26 04:00:00,Electronics
+CID00606,Car Seat Cover,TX000606,Female,4,488.2,Dire Dawa,2024-01-26 05:00:00,Automotive
+CID00607,Maybelline Mascara,TX000607,Female,2,294.8,Addis Ababa,2024-01-26 06:00:00,Beauty
+CID00608,Levi’s 501 Jeans,TX000608,Female,3,98.25,Hawassa,2024-01-26 07:00:00,Clothing
+CID00609,KitchenAid Mixer,TX000609,Female,5,455.81,Adama,2024-01-26 08:00:00,Home Appliances
+CID00610,Monopoly Board Game,TX000610,Female,3,257.59,Adama,2024-01-26 09:00:00,Toys
+CID00611,Fitbit Charge 5,TX000611,Male,2,468.88,Hawassa,2024-01-26 10:00:00,Electronics
+CID00612,Wilson Tennis Racket,TX000612,Male,6,307.81,Jimma,2024-01-26 11:00:00,Sports
+CID00613,Blender Bottle,TX000613,Male,2,25.28,Jimma,2024-01-26 12:00:00,Groceries
+CID00614,Office Chair,TX000614,Female,6,131.12,Adama,2024-01-26 13:00:00,Furniture
+CID00615,Philips Hue Smart Bulbs,TX000615,Male,1,357.0,Bahir Dar,2024-01-26 14:00:00,Home Appliances
+CID00616,Samsung Galaxy S23,TX000616,Male,5,418.08,Adama,2024-01-26 15:00:00,Electronics
+CID00617,Vitamix Blender,TX000617,Female,1,94.52,Dire Dawa,2024-01-26 16:00:00,Home Appliances
+CID00618,KitchenAid Mixer,TX000618,Female,6,41.72,Dire Dawa,2024-01-26 17:00:00,Home Appliances
+CID00619,Bose QuietComfort 35,TX000619,Female,6,159.62,Dire Dawa,2024-01-26 18:00:00,Electronics
+CID00620,Nintendo Switch,TX000620,Male,8,453.94,Adama,2024-01-26 19:00:00,Toys
+CID00621,Oculus Quest 2,TX000621,Female,2,428.6,Addis Ababa,2024-01-26 20:00:00,Electronics
+CID00622,Fitbit Charge 5,TX000622,Female,8,31.28,Dire Dawa,2024-01-26 21:00:00,Electronics
+CID00623,Jabra Elite 75t,TX000623,Female,2,339.01,Bahir Dar,2024-01-26 22:00:00,Electronics
+CID00624,KitchenAid Mixer,TX000624,Male,8,499.97,Adama,2024-01-26 23:00:00,Home Appliances
+CID00625,Nintendo Switch,TX000625,Female,6,51.77,Jimma,2024-01-27 00:00:00,Toys
+CID00626,Asus ROG Gaming Laptop,TX000626,Female,4,13.46,Hawassa,2024-01-27 01:00:00,Electronics
+CID00627,L’Oreal Face Cream,TX000627,Female,1,225.18,Adama,2024-01-27 02:00:00,Beauty
+CID00628,Puma Running Shoes,TX000628,Female,9,254.62,Addis Ababa,2024-01-27 03:00:00,Clothing
+CID00629,Nike T-Shirt,TX000629,Female,9,428.62,Bahir Dar,2024-01-27 04:00:00,Clothing
+CID00630,TCL Smart TV,TX000630,Female,5,484.15,Dire Dawa,2024-01-27 05:00:00,Electronics
+CID00631,Seiko Watch,TX000631,Male,9,351.38,Addis Ababa,2024-01-27 06:00:00,Accessories
+CID00632,Dell XPS 13 Laptop,TX000632,Male,1,111.26,Hawassa,2024-01-27 07:00:00,Electronics
+CID00633,Maybelline Mascara,TX000633,Male,4,92.53,Adama,2024-01-27 08:00:00,Beauty
+CID00634,Fitbit Charge 5,TX000634,Male,4,445.48,Bahir Dar,2024-01-27 09:00:00,Electronics
+CID00635,Car Seat Cover,TX000635,Male,3,122.74,Bahir Dar,2024-01-27 10:00:00,Automotive
+CID00636,Philips Hue Smart Bulbs,TX000636,Male,6,312.92,Jimma,2024-01-27 11:00:00,Home Appliances
+CID00637,Office Chair,TX000637,Male,8,71.23,Bahir Dar,2024-01-27 12:00:00,Furniture
+CID00638,iPhone 14,TX000638,Male,4,78.92,Hawassa,2024-01-27 13:00:00,Electronics
+CID00639,Seiko Watch,TX000639,Male,4,496.47,Bahir Dar,2024-01-27 14:00:00,Accessories
+CID00640,TCL Smart TV,TX000640,Female,9,390.81,Hawassa,2024-01-27 15:00:00,Electronics
+CID00641,Smeg Coffee Machine,TX000641,Female,6,94.61,Hawassa,2024-01-27 16:00:00,Home Appliances
+CID00642,Harry Potter Box Set,TX000642,Male,1,23.05,Bahir Dar,2024-01-27 17:00:00,Books
+CID00643,Harry Potter Box Set,TX000643,Male,7,288.59,Addis Ababa,2024-01-27 18:00:00,Books
+CID00644,Sony PlayStation 5,TX000644,Female,8,162.92,Addis Ababa,2024-01-27 19:00:00,Toys
+CID00645,Asus ROG Gaming Laptop,TX000645,Male,8,228.36,Hawassa,2024-01-27 20:00:00,Electronics
+CID00646,Sony PlayStation 5,TX000646,Female,4,364.26,Hawassa,2024-01-27 21:00:00,Toys
+CID00647,Harry Potter Box Set,TX000647,Male,6,386.47,Addis Ababa,2024-01-27 22:00:00,Books
+CID00648,Dell XPS 13 Laptop,TX000648,Female,8,285.9,Hawassa,2024-01-27 23:00:00,Electronics
+CID00649,LG Refrigerator,TX000649,Female,7,162.0,Hawassa,2024-01-28 00:00:00,Home Appliances
+CID00650,Wilson Tennis Racket,TX000650,Female,8,90.05,Hawassa,2024-01-28 01:00:00,Sports
+CID00651,Nike Air Max,TX000651,Female,2,273.12,Dire Dawa,2024-01-28 02:00:00,Clothing
+CID00652,TCL Smart TV,TX000652,Female,9,412.31,Dire Dawa,2024-01-28 03:00:00,Electronics
+CID00653,KitchenAid Mixer,TX000653,Female,4,472.56,Jimma,2024-01-28 04:00:00,Home Appliances
+CID00654,Adidas Ultraboost,TX000654,Male,9,250.36,Addis Ababa,2024-01-28 05:00:00,Clothing
+CID00655,Seiko Watch,TX000655,Female,9,464.24,Dire Dawa,2024-01-28 06:00:00,Accessories
+CID00656,Yoga Mat,TX000656,Male,1,75.49,Jimma,2024-01-28 07:00:00,Sports
+CID00657,Blender Bottle,TX000657,Male,9,409.69,Adama,2024-01-28 08:00:00,Groceries
+CID00658,Sony PlayStation 5,TX000658,Female,8,357.94,Dire Dawa,2024-01-28 09:00:00,Toys
+CID00659,Dell XPS 13 Laptop,TX000659,Male,5,208.23,Adama,2024-01-28 10:00:00,Electronics
+CID00660,Puma Running Shoes,TX000660,Male,7,165.37,Jimma,2024-01-28 11:00:00,Clothing
+CID00661,GoPro Hero 11,TX000661,Male,9,414.33,Bahir Dar,2024-01-28 12:00:00,Electronics
+CID00662,iPhone 14,TX000662,Male,8,416.89,Bahir Dar,2024-01-28 13:00:00,Electronics
+CID00663,Car Seat Cover,TX000663,Male,7,140.54,Hawassa,2024-01-28 14:00:00,Automotive
+CID00664,Harry Potter Box Set,TX000664,Female,9,275.23,Jimma,2024-01-28 15:00:00,Books
+CID00665,L’Oreal Face Cream,TX000665,Male,1,175.35,Addis Ababa,2024-01-28 16:00:00,Beauty
+CID00666,Under Armour Hoodie,TX000666,Female,7,62.95,Addis Ababa,2024-01-28 17:00:00,Clothing
+CID00667,Apple Watch Series 8,TX000667,Male,9,213.1,Hawassa,2024-01-28 18:00:00,Electronics
+CID00668,Jabra Elite 75t,TX000668,Female,9,405.78,Hawassa,2024-01-28 19:00:00,Electronics
+CID00669,KitchenAid Mixer,TX000669,Female,1,43.15,Dire Dawa,2024-01-28 20:00:00,Home Appliances
+CID00670,KitchenAid Mixer,TX000670,Male,1,317.96,Adama,2024-01-28 21:00:00,Home Appliances
+CID00671,GoPro Hero 11,TX000671,Male,5,365.31,Adama,2024-01-28 22:00:00,Electronics
+CID00672,Oculus Quest 2,TX000672,Female,8,339.53,Hawassa,2024-01-28 23:00:00,Electronics
+CID00673,L’Oreal Face Cream,TX000673,Male,1,75.37,Addis Ababa,2024-01-29 00:00:00,Beauty
+CID00674,Blender Bottle,TX000674,Female,6,224.85,Addis Ababa,2024-01-29 01:00:00,Groceries
+CID00675,Car Seat Cover,TX000675,Female,1,86.07,Addis Ababa,2024-01-29 02:00:00,Automotive
+CID00676,Seiko Watch,TX000676,Male,6,46.99,Adama,2024-01-29 03:00:00,Accessories
+CID00677,iPhone 14,TX000677,Male,2,179.64,Dire Dawa,2024-01-29 04:00:00,Electronics
+CID00678,LG Refrigerator,TX000678,Female,9,143.08,Jimma,2024-01-29 05:00:00,Home Appliances
+CID00679,Desk Organizer,TX000679,Male,1,331.06,Bahir Dar,2024-01-29 06:00:00,Office Supplies
+CID00680,Oculus Quest 2,TX000680,Female,1,412.57,Hawassa,2024-01-29 07:00:00,Electronics
+CID00681,Blender Bottle,TX000681,Male,7,92.41,Hawassa,2024-01-29 08:00:00,Groceries
+CID00682,Nike T-Shirt,TX000682,Female,1,211.05,Hawassa,2024-01-29 09:00:00,Clothing
+CID00683,Fitbit Charge 5,TX000683,Female,6,363.27,Dire Dawa,2024-01-29 10:00:00,Electronics
+CID00684,Smeg Coffee Machine,TX000684,Female,1,177.03,Addis Ababa,2024-01-29 11:00:00,Home Appliances
+CID00685,Dell XPS 13 Laptop,TX000685,Male,8,422.88,Jimma,2024-01-29 12:00:00,Electronics
+CID00686,Bose QuietComfort 35,TX000686,Female,8,310.62,Dire Dawa,2024-01-29 13:00:00,Electronics
+CID00687,Sony PlayStation 5,TX000687,Male,5,341.71,Bahir Dar,2024-01-29 14:00:00,Toys
+CID00688,Smeg Coffee Machine,TX000688,Female,8,207.2,Jimma,2024-01-29 15:00:00,Home Appliances
+CID00689,Nike T-Shirt,TX000689,Female,8,170.61,Bahir Dar,2024-01-29 16:00:00,Clothing
+CID00690,Nike T-Shirt,TX000690,Male,8,273.81,Jimma,2024-01-29 17:00:00,Clothing
+CID00691,Smeg Coffee Machine,TX000691,Male,6,438.94,Dire Dawa,2024-01-29 18:00:00,Home Appliances
+CID00692,Apple Watch Series 8,TX000692,Female,5,427.84,Bahir Dar,2024-01-29 19:00:00,Electronics
+CID00693,Asus ROG Gaming Laptop,TX000693,Female,3,344.37,Addis Ababa,2024-01-29 20:00:00,Electronics
+CID00694,Levi’s 501 Jeans,TX000694,Female,6,471.48,Addis Ababa,2024-01-29 21:00:00,Clothing
+CID00695,Fitbit Charge 5,TX000695,Female,7,332.56,Jimma,2024-01-29 22:00:00,Electronics
+CID00696,Vitamix Blender,TX000696,Male,4,297.69,Adama,2024-01-29 23:00:00,Home Appliances
+CID00697,Car Seat Cover,TX000697,Male,7,420.38,Dire Dawa,2024-01-30 00:00:00,Automotive
+CID00698,Bose QuietComfort 35,TX000698,Male,4,402.54,Adama,2024-01-30 01:00:00,Electronics
+CID00699,Under Armour Hoodie,TX000699,Male,9,479.28,Adama,2024-01-30 02:00:00,Clothing
+CID00700,Yoga Mat,TX000700,Female,1,128.23,Hawassa,2024-01-30 03:00:00,Sports
+CID00701,Puma Running Shoes,TX000701,Male,7,254.46,Hawassa,2024-01-30 04:00:00,Clothing
+CID00702,Yoga Mat,TX000702,Female,4,232.05,Hawassa,2024-01-30 05:00:00,Sports
+CID00703,Nintendo Switch,TX000703,Female,2,348.91,Hawassa,2024-01-30 06:00:00,Toys
+CID00704,Levi’s 501 Jeans,TX000704,Female,4,340.53,Adama,2024-01-30 07:00:00,Clothing
+CID00705,Wilson Tennis Racket,TX000705,Female,3,143.15,Dire Dawa,2024-01-30 08:00:00,Sports
+CID00706,Maybelline Mascara,TX000706,Male,1,58.53,Dire Dawa,2024-01-30 09:00:00,Beauty
+CID00707,Nintendo Switch,TX000707,Male,9,493.14,Addis Ababa,2024-01-30 10:00:00,Toys
+CID00708,Car Seat Cover,TX000708,Female,4,128.65,Addis Ababa,2024-01-30 11:00:00,Automotive
+CID00709,Nike T-Shirt,TX000709,Female,7,403.22,Adama,2024-01-30 12:00:00,Clothing
+CID00710,Puma Running Shoes,TX000710,Male,4,317.25,Dire Dawa,2024-01-30 13:00:00,Clothing
+CID00711,Oculus Quest 2,TX000711,Male,8,327.96,Addis Ababa,2024-01-30 14:00:00,Electronics
+CID00712,Office Chair,TX000712,Female,1,465.61,Bahir Dar,2024-01-30 15:00:00,Furniture
+CID00713,Monopoly Board Game,TX000713,Female,1,57.55,Addis Ababa,2024-01-30 16:00:00,Toys
+CID00714,Desk Organizer,TX000714,Male,8,266.91,Jimma,2024-01-30 17:00:00,Office Supplies
+CID00715,Oculus Quest 2,TX000715,Female,2,431.32,Jimma,2024-01-30 18:00:00,Electronics
+CID00716,Fossil Watch,TX000716,Male,3,132.64,Jimma,2024-01-30 19:00:00,Accessories
+CID00717,Sony PlayStation 5,TX000717,Female,9,118.78,Jimma,2024-01-30 20:00:00,Toys
+CID00718,LG Refrigerator,TX000718,Male,5,23.76,Bahir Dar,2024-01-30 21:00:00,Home Appliances
+CID00719,Canon EOS R5 Camera,TX000719,Female,6,249.19,Bahir Dar,2024-01-30 22:00:00,Electronics
+CID00720,Asus ROG Gaming Laptop,TX000720,Female,3,178.03,Hawassa,2024-01-30 23:00:00,Electronics
+CID00721,Fossil Watch,TX000721,Female,5,75.66,Dire Dawa,2024-01-31 00:00:00,Accessories
+CID00722,Desk Organizer,TX000722,Female,7,65.59,Dire Dawa,2024-01-31 01:00:00,Office Supplies
+CID00723,Bose QuietComfort 35,TX000723,Male,6,242.32,Jimma,2024-01-31 02:00:00,Electronics
+CID00724,Blender Bottle,TX000724,Male,4,146.64,Adama,2024-01-31 03:00:00,Groceries
+CID00725,Levi’s 501 Jeans,TX000725,Male,2,423.74,Bahir Dar,2024-01-31 04:00:00,Clothing
+CID00726,Blender Bottle,TX000726,Female,5,23.83,Jimma,2024-01-31 05:00:00,Groceries
+CID00727,Nike Air Max,TX000727,Female,8,149.5,Dire Dawa,2024-01-31 06:00:00,Clothing
+CID00728,Sony Bravia 4K TV,TX000728,Male,2,243.63,Jimma,2024-01-31 07:00:00,Electronics
+CID00729,Apple Watch Series 8,TX000729,Female,8,427.49,Adama,2024-01-31 08:00:00,Electronics
+CID00730,Asus ROG Gaming Laptop,TX000730,Female,1,467.52,Addis Ababa,2024-01-31 09:00:00,Electronics
+CID00731,Nike T-Shirt,TX000731,Male,1,401.53,Bahir Dar,2024-01-31 10:00:00,Clothing
+CID00732,Office Chair,TX000732,Male,9,465.88,Adama,2024-01-31 11:00:00,Furniture
+CID00733,Bose SoundLink Speaker,TX000733,Male,9,184.6,Adama,2024-01-31 12:00:00,Electronics
+CID00734,Bose SoundLink Speaker,TX000734,Female,2,470.91,Addis Ababa,2024-01-31 13:00:00,Electronics
+CID00735,L’Oreal Face Cream,TX000735,Female,8,467.82,Adama,2024-01-31 14:00:00,Beauty
+CID00736,Seiko Watch,TX000736,Female,7,55.03,Adama,2024-01-31 15:00:00,Accessories
+CID00737,Wilson Tennis Racket,TX000737,Male,9,347.03,Hawassa,2024-01-31 16:00:00,Sports
+CID00738,Fossil Watch,TX000738,Male,9,273.03,Adama,2024-01-31 17:00:00,Accessories
+CID00739,Monopoly Board Game,TX000739,Male,6,99.07,Adama,2024-01-31 18:00:00,Toys
+CID00740,Oculus Quest 2,TX000740,Female,1,28.5,Bahir Dar,2024-01-31 19:00:00,Electronics
+CID00741,Oculus Quest 2,TX000741,Female,4,402.41,Adama,2024-01-31 20:00:00,Electronics
+CID00742,LG Refrigerator,TX000742,Female,3,452.69,Addis Ababa,2024-01-31 21:00:00,Home Appliances
+CID00743,Sony PlayStation 5,TX000743,Male,5,457.06,Bahir Dar,2024-01-31 22:00:00,Toys
+CID00744,Office Chair,TX000744,Male,6,227.56,Adama,2024-01-31 23:00:00,Furniture
+CID00745,Office Chair,TX000745,Male,6,377.96,Hawassa,2024-02-01 00:00:00,Furniture
+CID00746,Fossil Watch,TX000746,Female,7,54.54,Addis Ababa,2024-02-01 01:00:00,Accessories
+CID00747,L’Oreal Face Cream,TX000747,Male,3,237.96,Hawassa,2024-02-01 02:00:00,Beauty
+CID00748,LG Refrigerator,TX000748,Female,8,291.73,Addis Ababa,2024-02-01 03:00:00,Home Appliances
+CID00749,iPhone 14,TX000749,Male,6,491.88,Bahir Dar,2024-02-01 04:00:00,Electronics
+CID00750,Samsung Smartwatch,TX000750,Male,7,112.79,Hawassa,2024-02-01 05:00:00,Electronics
+CID00751,Desk Organizer,TX000751,Female,1,17.2,Addis Ababa,2024-02-01 06:00:00,Office Supplies
+CID00752,Samsung Galaxy S23,TX000752,Female,1,277.01,Addis Ababa,2024-02-01 07:00:00,Electronics
+CID00753,TCL Smart TV,TX000753,Female,2,170.3,Jimma,2024-02-01 08:00:00,Electronics
+CID00754,Office Chair,TX000754,Female,9,214.33,Dire Dawa,2024-02-01 09:00:00,Furniture
+CID00755,Fossil Watch,TX000755,Male,3,499.48,Bahir Dar,2024-02-01 10:00:00,Accessories
+CID00756,Samsung Smartwatch,TX000756,Female,2,192.79,Bahir Dar,2024-02-01 11:00:00,Electronics
+CID00757,Levi’s Jacket,TX000757,Male,8,321.25,Bahir Dar,2024-02-01 12:00:00,Clothing
+CID00758,Adidas Ultraboost,TX000758,Female,5,150.49,Addis Ababa,2024-02-01 13:00:00,Clothing
+CID00759,Desk Organizer,TX000759,Male,8,481.57,Hawassa,2024-02-01 14:00:00,Office Supplies
+CID00760,Sony Bravia 4K TV,TX000760,Female,1,124.97,Dire Dawa,2024-02-01 15:00:00,Electronics
+CID00761,L’Oreal Face Cream,TX000761,Female,5,26.5,Adama,2024-02-01 16:00:00,Beauty
+CID00762,Car Seat Cover,TX000762,Male,9,43.36,Adama,2024-02-01 17:00:00,Automotive
+CID00763,Levi’s 501 Jeans,TX000763,Female,6,30.37,Bahir Dar,2024-02-01 18:00:00,Clothing
+CID00764,LG Refrigerator,TX000764,Male,1,24.95,Bahir Dar,2024-02-01 19:00:00,Home Appliances
+CID00765,Fossil Watch,TX000765,Male,5,246.71,Addis Ababa,2024-02-01 20:00:00,Accessories
+CID00766,Wilson Tennis Racket,TX000766,Male,7,306.1,Adama,2024-02-01 21:00:00,Sports
+CID00767,Levi’s Jacket,TX000767,Male,2,305.68,Bahir Dar,2024-02-01 22:00:00,Clothing
+CID00768,TCL Smart TV,TX000768,Female,1,100.33,Addis Ababa,2024-02-01 23:00:00,Electronics
+CID00769,Dell XPS 13 Laptop,TX000769,Female,5,231.23,Addis Ababa,2024-02-02 00:00:00,Electronics
+CID00770,Puma Running Shoes,TX000770,Male,3,149.59,Bahir Dar,2024-02-02 01:00:00,Clothing
+CID00771,Nintendo Switch,TX000771,Male,4,287.59,Dire Dawa,2024-02-02 02:00:00,Toys
+CID00772,Car Seat Cover,TX000772,Male,5,428.17,Bahir Dar,2024-02-02 03:00:00,Automotive
+CID00773,Puma Running Shoes,TX000773,Female,3,451.8,Bahir Dar,2024-02-02 04:00:00,Clothing
+CID00774,Fitbit Charge 5,TX000774,Female,8,368.38,Bahir Dar,2024-02-02 05:00:00,Electronics
+CID00775,Philips Hue Smart Bulbs,TX000775,Male,5,55.17,Bahir Dar,2024-02-02 06:00:00,Home Appliances
+CID00776,Yoga Mat,TX000776,Female,6,384.61,Dire Dawa,2024-02-02 07:00:00,Sports
+CID00777,Maybelline Mascara,TX000777,Female,1,116.91,Addis Ababa,2024-02-02 08:00:00,Beauty
+CID00778,Wilson Tennis Racket,TX000778,Female,2,288.02,Adama,2024-02-02 09:00:00,Sports
+CID00779,Maybelline Mascara,TX000779,Female,5,146.45,Addis Ababa,2024-02-02 10:00:00,Beauty
+CID00780,L’Oreal Face Cream,TX000780,Male,9,361.46,Addis Ababa,2024-02-02 11:00:00,Beauty
+CID00781,Canon EOS R5 Camera,TX000781,Female,2,172.67,Dire Dawa,2024-02-02 12:00:00,Electronics
+CID00782,Wilson Tennis Racket,TX000782,Female,8,496.06,Dire Dawa,2024-02-02 13:00:00,Sports
+CID00783,Fitbit Charge 5,TX000783,Male,8,473.84,Dire Dawa,2024-02-02 14:00:00,Electronics
+CID00784,Canon EOS R5 Camera,TX000784,Male,6,202.0,Adama,2024-02-02 15:00:00,Electronics
+CID00785,iPhone 14,TX000785,Male,6,479.08,Dire Dawa,2024-02-02 16:00:00,Electronics
+CID00786,GoPro Hero 11,TX000786,Male,6,142.07,Hawassa,2024-02-02 17:00:00,Electronics
+CID00787,Bose SoundLink Speaker,TX000787,Female,4,437.54,Jimma,2024-02-02 18:00:00,Electronics
+CID00788,Office Chair,TX000788,Female,7,480.97,Adama,2024-02-02 19:00:00,Furniture
+CID00789,Under Armour Hoodie,TX000789,Female,9,374.35,Bahir Dar,2024-02-02 20:00:00,Clothing
+CID00790,Jabra Elite 75t,TX000790,Female,8,165.31,Adama,2024-02-02 21:00:00,Electronics
+CID00791,Apple Watch Series 8,TX000791,Female,8,20.74,Hawassa,2024-02-02 22:00:00,Electronics
+CID00792,Oculus Quest 2,TX000792,Male,3,84.54,Bahir Dar,2024-02-02 23:00:00,Electronics
+CID00793,Samsung Smartwatch,TX000793,Male,7,156.66,Dire Dawa,2024-02-03 00:00:00,Electronics
+CID00794,Blender Bottle,TX000794,Male,1,489.49,Addis Ababa,2024-02-03 01:00:00,Groceries
+CID00795,LG Refrigerator,TX000795,Female,3,151.05,Dire Dawa,2024-02-03 02:00:00,Home Appliances
+CID00796,Bose QuietComfort 35,TX000796,Male,4,206.57,Addis Ababa,2024-02-03 03:00:00,Electronics
+CID00797,Dell XPS 13 Laptop,TX000797,Male,7,404.24,Bahir Dar,2024-02-03 04:00:00,Electronics
+CID00798,Wilson Tennis Racket,TX000798,Male,6,408.77,Dire Dawa,2024-02-03 05:00:00,Sports
+CID00799,Wilson Tennis Racket,TX000799,Female,3,289.42,Jimma,2024-02-03 06:00:00,Sports
+CID00800,Samsung Galaxy S23,TX000800,Male,8,399.76,Bahir Dar,2024-02-03 07:00:00,Electronics
+CID00801,Nike Air Max,TX000801,Male,8,107.91,Hawassa,2024-02-03 08:00:00,Clothing
+CID00802,Adidas Ultraboost,TX000802,Female,8,323.97,Dire Dawa,2024-02-03 09:00:00,Clothing
+CID00803,Philips Hue Smart Bulbs,TX000803,Female,2,440.67,Hawassa,2024-02-03 10:00:00,Home Appliances
+CID00804,LG Refrigerator,TX000804,Female,6,23.95,Adama,2024-02-03 11:00:00,Home Appliances
+CID00805,Seiko Watch,TX000805,Male,2,399.94,Adama,2024-02-03 12:00:00,Accessories
+CID00806,Under Armour Hoodie,TX000806,Female,6,366.21,Bahir Dar,2024-02-03 13:00:00,Clothing
+CID00807,Harry Potter Box Set,TX000807,Male,5,404.5,Adama,2024-02-03 14:00:00,Books
+CID00808,Jabra Elite 75t,TX000808,Male,5,45.26,Addis Ababa,2024-02-03 15:00:00,Electronics
+CID00809,Blender Bottle,TX000809,Male,4,118.62,Adama,2024-02-03 16:00:00,Groceries
+CID00810,Desk Organizer,TX000810,Female,2,377.08,Jimma,2024-02-03 17:00:00,Office Supplies
+CID00811,Seiko Watch,TX000811,Female,7,253.4,Bahir Dar,2024-02-03 18:00:00,Accessories
+CID00812,LG Refrigerator,TX000812,Male,9,196.42,Adama,2024-02-03 19:00:00,Home Appliances
+CID00813,Car Seat Cover,TX000813,Male,4,217.54,Dire Dawa,2024-02-03 20:00:00,Automotive
+CID00814,KitchenAid Mixer,TX000814,Male,9,34.55,Adama,2024-02-03 21:00:00,Home Appliances
+CID00815,Harry Potter Box Set,TX000815,Female,5,465.2,Bahir Dar,2024-02-03 22:00:00,Books
+CID00816,Oculus Quest 2,TX000816,Female,9,364.18,Bahir Dar,2024-02-03 23:00:00,Electronics
+CID00817,Levi’s Jacket,TX000817,Male,1,352.79,Adama,2024-02-04 00:00:00,Clothing
+CID00818,Wilson Tennis Racket,TX000818,Female,4,279.88,Dire Dawa,2024-02-04 01:00:00,Sports
+CID00819,Monopoly Board Game,TX000819,Male,5,23.19,Bahir Dar,2024-02-04 02:00:00,Toys
+CID00820,Bose QuietComfort 35,TX000820,Male,9,235.62,Jimma,2024-02-04 03:00:00,Electronics
+CID00821,Fossil Watch,TX000821,Male,7,187.6,Bahir Dar,2024-02-04 04:00:00,Accessories
+CID00822,Adidas Ultraboost,TX000822,Female,7,355.22,Addis Ababa,2024-02-04 05:00:00,Clothing
+CID00823,Sony Bravia 4K TV,TX000823,Female,8,370.02,Dire Dawa,2024-02-04 06:00:00,Electronics
+CID00824,Dell XPS 13 Laptop,TX000824,Female,8,428.62,Jimma,2024-02-04 07:00:00,Electronics
+CID00825,Seiko Watch,TX000825,Female,6,102.1,Hawassa,2024-02-04 08:00:00,Accessories
+CID00826,Bose QuietComfort 35,TX000826,Male,2,175.76,Bahir Dar,2024-02-04 09:00:00,Electronics
+CID00827,Desk Organizer,TX000827,Female,7,67.9,Dire Dawa,2024-02-04 10:00:00,Office Supplies
+CID00828,Samsung Galaxy S23,TX000828,Male,6,224.66,Bahir Dar,2024-02-04 11:00:00,Electronics
+CID00829,Nintendo Switch,TX000829,Female,8,43.84,Dire Dawa,2024-02-04 12:00:00,Toys
+CID00830,GoPro Hero 11,TX000830,Male,8,86.16,Hawassa,2024-02-04 13:00:00,Electronics
+CID00831,Nike T-Shirt,TX000831,Female,3,47.05,Addis Ababa,2024-02-04 14:00:00,Clothing
+CID00832,Yoga Mat,TX000832,Male,4,401.17,Bahir Dar,2024-02-04 15:00:00,Sports
+CID00833,Fossil Watch,TX000833,Female,1,23.26,Bahir Dar,2024-02-04 16:00:00,Accessories
+CID00834,Bose QuietComfort 35,TX000834,Female,4,383.31,Bahir Dar,2024-02-04 17:00:00,Electronics
+CID00835,Bose SoundLink Speaker,TX000835,Female,8,494.99,Dire Dawa,2024-02-04 18:00:00,Electronics
+CID00836,Bose SoundLink Speaker,TX000836,Female,9,488.83,Dire Dawa,2024-02-04 19:00:00,Electronics
+CID00837,Wilson Tennis Racket,TX000837,Female,9,211.72,Adama,2024-02-04 20:00:00,Sports
+CID00838,Smeg Coffee Machine,TX000838,Female,4,390.58,Bahir Dar,2024-02-04 21:00:00,Home Appliances
+CID00839,Puma Running Shoes,TX000839,Female,6,358.24,Jimma,2024-02-04 22:00:00,Clothing
+CID00840,Vitamix Blender,TX000840,Male,2,420.06,Dire Dawa,2024-02-04 23:00:00,Home Appliances
+CID00841,Seiko Watch,TX000841,Male,3,60.53,Dire Dawa,2024-02-05 00:00:00,Accessories
+CID00842,Wilson Tennis Racket,TX000842,Male,4,490.72,Dire Dawa,2024-02-05 01:00:00,Sports
+CID00843,Monopoly Board Game,TX000843,Female,2,164.81,Bahir Dar,2024-02-05 02:00:00,Toys
+CID00844,Levi’s Jacket,TX000844,Female,7,28.55,Dire Dawa,2024-02-05 03:00:00,Clothing
+CID00845,Wilson Tennis Racket,TX000845,Male,6,187.04,Dire Dawa,2024-02-05 04:00:00,Sports
+CID00846,Sony PlayStation 5,TX000846,Female,1,86.83,Bahir Dar,2024-02-05 05:00:00,Toys
+CID00847,Samsung Galaxy S23,TX000847,Female,1,84.82,Hawassa,2024-02-05 06:00:00,Electronics
+CID00848,Bose SoundLink Speaker,TX000848,Female,2,319.82,Addis Ababa,2024-02-05 07:00:00,Electronics
+CID00849,Harry Potter Box Set,TX000849,Male,8,382.8,Bahir Dar,2024-02-05 08:00:00,Books
+CID00850,KitchenAid Mixer,TX000850,Female,1,400.78,Addis Ababa,2024-02-05 09:00:00,Home Appliances
+CID00851,Harry Potter Box Set,TX000851,Female,7,42.12,Adama,2024-02-05 10:00:00,Books
+CID00852,Sony Bravia 4K TV,TX000852,Female,9,240.72,Dire Dawa,2024-02-05 11:00:00,Electronics
+CID00853,Bose QuietComfort 35,TX000853,Male,7,26.36,Jimma,2024-02-05 12:00:00,Electronics
+CID00854,Vitamix Blender,TX000854,Male,9,21.37,Hawassa,2024-02-05 13:00:00,Home Appliances
+CID00855,KitchenAid Mixer,TX000855,Female,9,46.35,Adama,2024-02-05 14:00:00,Home Appliances
+CID00856,Blender Bottle,TX000856,Female,4,156.14,Adama,2024-02-05 15:00:00,Groceries
+CID00857,Bose QuietComfort 35,TX000857,Female,5,30.5,Hawassa,2024-02-05 16:00:00,Electronics
+CID00858,Harry Potter Box Set,TX000858,Male,5,107.85,Hawassa,2024-02-05 17:00:00,Books
+CID00859,Sony PlayStation 5,TX000859,Female,7,64.48,Jimma,2024-02-05 18:00:00,Toys
+CID00860,TCL Smart TV,TX000860,Female,2,50.63,Bahir Dar,2024-02-05 19:00:00,Electronics
+CID00861,Canon EOS R5 Camera,TX000861,Female,8,257.54,Adama,2024-02-05 20:00:00,Electronics
+CID00862,Office Chair,TX000862,Female,7,252.17,Jimma,2024-02-05 21:00:00,Furniture
+CID00863,Oculus Quest 2,TX000863,Female,3,294.49,Addis Ababa,2024-02-05 22:00:00,Electronics
+CID00864,Oculus Quest 2,TX000864,Male,9,267.41,Adama,2024-02-05 23:00:00,Electronics
+CID00865,Sony Bravia 4K TV,TX000865,Male,5,102.38,Bahir Dar,2024-02-06 00:00:00,Electronics
+CID00866,GoPro Hero 11,TX000866,Female,9,146.83,Adama,2024-02-06 01:00:00,Electronics
+CID00867,Nike Air Max,TX000867,Male,2,296.32,Dire Dawa,2024-02-06 02:00:00,Clothing
+CID00868,Nike T-Shirt,TX000868,Male,2,71.94,Dire Dawa,2024-02-06 03:00:00,Clothing
+CID00869,Sony Bravia 4K TV,TX000869,Male,2,255.83,Adama,2024-02-06 04:00:00,Electronics
+CID00870,GoPro Hero 11,TX000870,Male,7,441.64,Dire Dawa,2024-02-06 05:00:00,Electronics
+CID00871,Maybelline Mascara,TX000871,Male,2,448.58,Bahir Dar,2024-02-06 06:00:00,Beauty
+CID00872,Car Seat Cover,TX000872,Male,4,460.95,Adama,2024-02-06 07:00:00,Automotive
+CID00873,GoPro Hero 11,TX000873,Male,9,487.27,Jimma,2024-02-06 08:00:00,Electronics
+CID00874,Oculus Quest 2,TX000874,Male,2,388.62,Adama,2024-02-06 09:00:00,Electronics
+CID00875,Adidas Ultraboost,TX000875,Male,4,113.79,Dire Dawa,2024-02-06 10:00:00,Clothing
+CID00876,Seiko Watch,TX000876,Male,3,65.14,Adama,2024-02-06 11:00:00,Accessories
+CID00877,Philips Hue Smart Bulbs,TX000877,Male,9,114.85,Jimma,2024-02-06 12:00:00,Home Appliances
+CID00878,Wilson Tennis Racket,TX000878,Female,8,460.82,Hawassa,2024-02-06 13:00:00,Sports
+CID00879,Samsung Galaxy S23,TX000879,Male,1,16.35,Bahir Dar,2024-02-06 14:00:00,Electronics
+CID00880,Smeg Coffee Machine,TX000880,Male,5,86.04,Hawassa,2024-02-06 15:00:00,Home Appliances
+CID00881,Jabra Elite 75t,TX000881,Male,3,277.9,Addis Ababa,2024-02-06 16:00:00,Electronics
+CID00882,Levi’s 501 Jeans,TX000882,Male,3,365.73,Dire Dawa,2024-02-06 17:00:00,Clothing
+CID00883,TCL Smart TV,TX000883,Male,4,244.9,Adama,2024-02-06 18:00:00,Electronics
+CID00884,Adidas Ultraboost,TX000884,Male,3,188.62,Adama,2024-02-06 19:00:00,Clothing
+CID00885,Canon EOS R5 Camera,TX000885,Female,4,380.34,Adama,2024-02-06 20:00:00,Electronics
+CID00886,Under Armour Hoodie,TX000886,Female,1,266.36,Bahir Dar,2024-02-06 21:00:00,Clothing
+CID00887,Sony PlayStation 5,TX000887,Female,5,496.91,Dire Dawa,2024-02-06 22:00:00,Toys
+CID00888,Adidas Ultraboost,TX000888,Female,1,373.25,Addis Ababa,2024-02-06 23:00:00,Clothing
+CID00889,Sony PlayStation 5,TX000889,Male,1,321.11,Addis Ababa,2024-02-07 00:00:00,Toys
+CID00890,Desk Organizer,TX000890,Female,3,304.96,Adama,2024-02-07 01:00:00,Office Supplies
+CID00891,Maybelline Mascara,TX000891,Female,8,151.2,Addis Ababa,2024-02-07 02:00:00,Beauty
+CID00892,Vitamix Blender,TX000892,Male,9,195.23,Hawassa,2024-02-07 03:00:00,Home Appliances
+CID00893,Office Chair,TX000893,Male,3,60.92,Bahir Dar,2024-02-07 04:00:00,Furniture
+CID00894,GoPro Hero 11,TX000894,Male,9,60.84,Jimma,2024-02-07 05:00:00,Electronics
+CID00895,Office Chair,TX000895,Male,1,149.85,Jimma,2024-02-07 06:00:00,Furniture
+CID00896,Harry Potter Box Set,TX000896,Male,8,447.04,Addis Ababa,2024-02-07 07:00:00,Books
+CID00897,Samsung Galaxy S23,TX000897,Female,8,112.7,Dire Dawa,2024-02-07 08:00:00,Electronics
+CID00898,Under Armour Hoodie,TX000898,Female,1,196.24,Bahir Dar,2024-02-07 09:00:00,Clothing
+CID00899,Under Armour Hoodie,TX000899,Male,7,366.28,Hawassa,2024-02-07 10:00:00,Clothing
+CID00900,Philips Hue Smart Bulbs,TX000900,Female,7,391.5,Adama,2024-02-07 11:00:00,Home Appliances
+CID00901,Sony PlayStation 5,TX000901,Female,7,365.31,Addis Ababa,2024-02-07 12:00:00,Toys
+CID00902,Samsung Galaxy S23,TX000902,Female,9,314.71,Jimma,2024-02-07 13:00:00,Electronics
+CID00903,Desk Organizer,TX000903,Female,6,22.8,Adama,2024-02-07 14:00:00,Office Supplies
+CID00904,L’Oreal Face Cream,TX000904,Male,4,203.27,Bahir Dar,2024-02-07 15:00:00,Beauty
+CID00905,Levi’s Jacket,TX000905,Female,5,384.25,Hawassa,2024-02-07 16:00:00,Clothing
+CID00906,Levi’s 501 Jeans,TX000906,Male,9,104.79,Jimma,2024-02-07 17:00:00,Clothing
+CID00907,Office Chair,TX000907,Male,6,109.22,Jimma,2024-02-07 18:00:00,Furniture
+CID00908,Asus ROG Gaming Laptop,TX000908,Male,3,70.92,Jimma,2024-02-07 19:00:00,Electronics
+CID00909,Yoga Mat,TX000909,Female,6,223.45,Bahir Dar,2024-02-07 20:00:00,Sports
+CID00910,Nintendo Switch,TX000910,Male,4,483.12,Adama,2024-02-07 21:00:00,Toys
+CID00911,Desk Organizer,TX000911,Male,7,21.85,Bahir Dar,2024-02-07 22:00:00,Office Supplies
+CID00912,Monopoly Board Game,TX000912,Male,2,225.48,Bahir Dar,2024-02-07 23:00:00,Toys
+CID00913,Jabra Elite 75t,TX000913,Female,7,45.69,Adama,2024-02-08 00:00:00,Electronics
+CID00914,Harry Potter Box Set,TX000914,Male,8,367.81,Addis Ababa,2024-02-08 01:00:00,Books
+CID00915,Asus ROG Gaming Laptop,TX000915,Male,9,36.84,Bahir Dar,2024-02-08 02:00:00,Electronics
+CID00916,Sony Bravia 4K TV,TX000916,Male,2,28.91,Hawassa,2024-02-08 03:00:00,Electronics
+CID00917,Maybelline Mascara,TX000917,Male,4,448.98,Jimma,2024-02-08 04:00:00,Beauty
+CID00918,Harry Potter Box Set,TX000918,Female,2,266.54,Hawassa,2024-02-08 05:00:00,Books
+CID00919,Vitamix Blender,TX000919,Male,7,330.15,Adama,2024-02-08 06:00:00,Home Appliances
+CID00920,Harry Potter Box Set,TX000920,Male,9,93.93,Hawassa,2024-02-08 07:00:00,Books
+CID00921,Seiko Watch,TX000921,Female,9,299.03,Hawassa,2024-02-08 08:00:00,Accessories
+CID00922,Fitbit Charge 5,TX000922,Female,7,102.39,Bahir Dar,2024-02-08 09:00:00,Electronics
+CID00923,Nike T-Shirt,TX000923,Female,2,488.56,Hawassa,2024-02-08 10:00:00,Clothing
+CID00924,Sony Bravia 4K TV,TX000924,Female,9,450.48,Adama,2024-02-08 11:00:00,Electronics
+CID00925,Sony Bravia 4K TV,TX000925,Male,5,372.27,Bahir Dar,2024-02-08 12:00:00,Electronics
+CID00926,Apple Watch Series 8,TX000926,Male,9,219.79,Jimma,2024-02-08 13:00:00,Electronics
+CID00927,Oculus Quest 2,TX000927,Female,1,92.6,Hawassa,2024-02-08 14:00:00,Electronics
+CID00928,LG Refrigerator,TX000928,Female,1,410.37,Addis Ababa,2024-02-08 15:00:00,Home Appliances
+CID00929,Monopoly Board Game,TX000929,Male,3,448.41,Jimma,2024-02-08 16:00:00,Toys
+CID00930,KitchenAid Mixer,TX000930,Female,2,450.75,Hawassa,2024-02-08 17:00:00,Home Appliances
+CID00931,Canon EOS R5 Camera,TX000931,Female,2,49.1,Addis Ababa,2024-02-08 18:00:00,Electronics
+CID00932,Nike Air Max,TX000932,Male,1,27.68,Bahir Dar,2024-02-08 19:00:00,Clothing
+CID00933,LG Refrigerator,TX000933,Male,4,478.08,Adama,2024-02-08 20:00:00,Home Appliances
+CID00934,Oculus Quest 2,TX000934,Female,6,335.93,Adama,2024-02-08 21:00:00,Electronics
+CID00935,Wilson Tennis Racket,TX000935,Male,1,415.15,Dire Dawa,2024-02-08 22:00:00,Sports
+CID00936,Samsung Galaxy S23,TX000936,Female,9,401.06,Adama,2024-02-08 23:00:00,Electronics
+CID00937,Sony Bravia 4K TV,TX000937,Male,8,157.88,Bahir Dar,2024-02-09 00:00:00,Electronics
+CID00938,GoPro Hero 11,TX000938,Male,6,382.37,Adama,2024-02-09 01:00:00,Electronics
+CID00939,Sony PlayStation 5,TX000939,Female,7,480.1,Hawassa,2024-02-09 02:00:00,Toys
+CID00940,Maybelline Mascara,TX000940,Female,1,57.71,Addis Ababa,2024-02-09 03:00:00,Beauty
+CID00941,Samsung Smartwatch,TX000941,Female,6,327.57,Addis Ababa,2024-02-09 04:00:00,Electronics
+CID00942,Desk Organizer,TX000942,Female,2,469.16,Dire Dawa,2024-02-09 05:00:00,Office Supplies
+CID00943,Seiko Watch,TX000943,Male,3,434.78,Hawassa,2024-02-09 06:00:00,Accessories
+CID00944,Sony PlayStation 5,TX000944,Male,3,488.79,Dire Dawa,2024-02-09 07:00:00,Toys
+CID00945,Vitamix Blender,TX000945,Female,3,221.43,Jimma,2024-02-09 08:00:00,Home Appliances
+CID00946,Fossil Watch,TX000946,Male,5,405.6,Adama,2024-02-09 09:00:00,Accessories
+CID00947,Yoga Mat,TX000947,Male,6,364.8,Addis Ababa,2024-02-09 10:00:00,Sports
+CID00948,Nike T-Shirt,TX000948,Male,5,235.11,Bahir Dar,2024-02-09 11:00:00,Clothing
+CID00949,KitchenAid Mixer,TX000949,Female,5,184.17,Dire Dawa,2024-02-09 12:00:00,Home Appliances
+CID00950,Blender Bottle,TX000950,Female,3,45.99,Addis Ababa,2024-02-09 13:00:00,Groceries
+CID00951,Monopoly Board Game,TX000951,Male,4,52.04,Dire Dawa,2024-02-09 14:00:00,Toys
+CID00952,Sony PlayStation 5,TX000952,Male,9,14.52,Hawassa,2024-02-09 15:00:00,Toys
+CID00953,Maybelline Mascara,TX000953,Female,1,448.65,Hawassa,2024-02-09 16:00:00,Beauty
+CID00954,Samsung Galaxy S23,TX000954,Male,9,265.6,Adama,2024-02-09 17:00:00,Electronics
+CID00955,Maybelline Mascara,TX000955,Male,9,27.53,Dire Dawa,2024-02-09 18:00:00,Beauty
+CID00956,Philips Hue Smart Bulbs,TX000956,Male,5,236.38,Adama,2024-02-09 19:00:00,Home Appliances
+CID00957,Blender Bottle,TX000957,Female,6,424.85,Jimma,2024-02-09 20:00:00,Groceries
+CID00958,Jabra Elite 75t,TX000958,Female,6,62.34,Bahir Dar,2024-02-09 21:00:00,Electronics
+CID00959,Fossil Watch,TX000959,Male,7,184.22,Adama,2024-02-09 22:00:00,Accessories
+CID00960,Nintendo Switch,TX000960,Female,7,231.55,Addis Ababa,2024-02-09 23:00:00,Toys
+CID00961,Monopoly Board Game,TX000961,Male,1,206.81,Adama,2024-02-10 00:00:00,Toys
+CID00962,Asus ROG Gaming Laptop,TX000962,Male,1,58.63,Addis Ababa,2024-02-10 01:00:00,Electronics
+CID00963,Samsung Galaxy S23,TX000963,Male,3,189.44,Hawassa,2024-02-10 02:00:00,Electronics
+CID00964,Bose QuietComfort 35,TX000964,Male,3,401.79,Adama,2024-02-10 03:00:00,Electronics
+CID00965,Fitbit Charge 5,TX000965,Male,8,406.05,Addis Ababa,2024-02-10 04:00:00,Electronics
+CID00966,Smeg Coffee Machine,TX000966,Male,8,441.56,Dire Dawa,2024-02-10 05:00:00,Home Appliances
+CID00967,iPhone 14,TX000967,Male,8,268.41,Addis Ababa,2024-02-10 06:00:00,Electronics
+CID00968,Asus ROG Gaming Laptop,TX000968,Male,9,167.82,Jimma,2024-02-10 07:00:00,Electronics
+CID00969,TCL Smart TV,TX000969,Female,7,370.48,Addis Ababa,2024-02-10 08:00:00,Electronics
+CID00970,Seiko Watch,TX000970,Male,6,179.18,Adama,2024-02-10 09:00:00,Accessories
+CID00971,Nike T-Shirt,TX000971,Female,5,278.7,Jimma,2024-02-10 10:00:00,Clothing
+CID00972,Sony PlayStation 5,TX000972,Female,5,474.45,Hawassa,2024-02-10 11:00:00,Toys
+CID00973,Yoga Mat,TX000973,Male,7,48.68,Jimma,2024-02-10 12:00:00,Sports
+CID00974,Office Chair,TX000974,Female,2,108.54,Addis Ababa,2024-02-10 13:00:00,Furniture
+CID00975,Levi’s Jacket,TX000975,Female,1,132.61,Dire Dawa,2024-02-10 14:00:00,Clothing
+CID00976,Sony Bravia 4K TV,TX000976,Female,7,213.91,Addis Ababa,2024-02-10 15:00:00,Electronics
+CID00977,Nintendo Switch,TX000977,Male,7,221.13,Dire Dawa,2024-02-10 16:00:00,Toys
+CID00978,Samsung Smartwatch,TX000978,Female,7,405.39,Dire Dawa,2024-02-10 17:00:00,Electronics
+CID00979,Seiko Watch,TX000979,Male,8,377.37,Dire Dawa,2024-02-10 18:00:00,Accessories
+CID00980,KitchenAid Mixer,TX000980,Male,4,26.25,Bahir Dar,2024-02-10 19:00:00,Home Appliances
+CID00981,Harry Potter Box Set,TX000981,Female,4,247.0,Adama,2024-02-10 20:00:00,Books
+CID00982,LG Refrigerator,TX000982,Male,9,151.34,Jimma,2024-02-10 21:00:00,Home Appliances
+CID00983,Desk Organizer,TX000983,Male,2,106.48,Hawassa,2024-02-10 22:00:00,Office Supplies
+CID00984,Sony PlayStation 5,TX000984,Male,4,304.99,Addis Ababa,2024-02-10 23:00:00,Toys
+CID00985,Canon EOS R5 Camera,TX000985,Male,9,391.97,Addis Ababa,2024-02-11 00:00:00,Electronics
+CID00986,Sony Bravia 4K TV,TX000986,Male,6,197.28,Bahir Dar,2024-02-11 01:00:00,Electronics
+CID00987,Bose SoundLink Speaker,TX000987,Male,2,468.47,Dire Dawa,2024-02-11 02:00:00,Electronics
+CID00988,Car Seat Cover,TX000988,Male,5,456.9,Bahir Dar,2024-02-11 03:00:00,Automotive
+CID00989,Seiko Watch,TX000989,Female,5,433.42,Jimma,2024-02-11 04:00:00,Accessories
+CID00990,Dell XPS 13 Laptop,TX000990,Female,8,172.25,Hawassa,2024-02-11 05:00:00,Electronics
+CID00991,Levi’s 501 Jeans,TX000991,Female,6,101.1,Hawassa,2024-02-11 06:00:00,Clothing
+CID00992,Nike T-Shirt,TX000992,Female,4,340.2,Bahir Dar,2024-02-11 07:00:00,Clothing
+CID00993,Sony PlayStation 5,TX000993,Male,4,110.93,Hawassa,2024-02-11 08:00:00,Toys
+CID00994,Asus ROG Gaming Laptop,TX000994,Male,5,461.51,Addis Ababa,2024-02-11 09:00:00,Electronics
+CID00995,TCL Smart TV,TX000995,Female,5,295.54,Bahir Dar,2024-02-11 10:00:00,Electronics
+CID00996,Car Seat Cover,TX000996,Female,4,419.91,Hawassa,2024-02-11 11:00:00,Automotive
+CID00997,Sony Bravia 4K TV,TX000997,Male,1,288.59,Adama,2024-02-11 12:00:00,Electronics
+CID00998,GoPro Hero 11,TX000998,Male,1,211.2,Bahir Dar,2024-02-11 13:00:00,Electronics
+CID00999,Fitbit Charge 5,TX000999,Female,4,314.22,Jimma,2024-02-11 14:00:00,Electronics
+CID01000,Puma Running Shoes,TX001000,Female,3,393.08,Jimma,2024-02-11 15:00:00,Clothing
