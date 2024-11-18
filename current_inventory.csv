@@ -1,11 +1,11 @@
 Product,City,Stock_Level,Category
-Samsung Smartwatch,Dire Dawa,20,Electronics
+Samsung Smartwatch,Dire Dawa,360,Electronics
 LG Refrigerator,Addis Ababa,111,Electronics
 Canon EOS R5 Camera,Addis Ababa,166,Electronics
 Yoga Mat,Bahir Dar,278,Office Supplies
 Vitamix Blender,Hawassa,418,Beauty
 GoPro Hero 11,Dire Dawa,422,Automotive
-Sony PlayStation 5,Dire Dawa,228,Beauty
+Sony PlayStation 5,Dire Dawa,2258,Beauty
 Philips Hue Smart Bulbs,Bahir Dar,49,Electronics
 KitchenAid Mixer,Bahir Dar,96,Clothing
 Samsung Galaxy S23,Hawassa,359,Furniture
@@ -69,7 +69,7 @@ Monopoly Board Game,Dire Dawa,122,Electronics
 Samsung Smartwatch,Addis Ababa,65,Beauty
 Fossil Watch,Adama,494,Beauty
 Yoga Mat,Hawassa,238,Office Supplies
-Sony PlayStation 5,Jimma,178,Electronics
+Sony PlayStation 5,Jimma,3000,Electronics
 Monopoly Board Game,Addis Ababa,359,Electronics
 GoPro Hero 11,Bahir Dar,345,Electronics
 Under Armour Hoodie,Hawassa,22,Furniture
@@ -84,7 +84,7 @@ Maybelline Mascara,Jimma,99,Office Supplies
 TCL Smart TV,Adama,93,Electronics
 L’Oreal Face Cream,Addis Ababa,171,Toys
 Monopoly Board Game,Adama,193,Sports
-Oculus Quest 2,Bahir Dar,492,Beauty
+Oculus Quest 2,Bahir Dar,2001,Beauty
 Nike Air Max,Adama,110,Books
 LG Refrigerator,Bahir Dar,262,Electronics
 Blender Bottle,Dire Dawa,410,Home Appliances
