@@ -1,38 +1,50 @@
-import pandas as pd
 from prophet import Prophet
+import pandas as pd
 
-# Example data (replace with actual data)
-data = pd.DataFrame({
-    'ds': ['2024-01-01', '2024-01-02', '2024-01-03'],  # Replace with your dates
-    'y': [100, 120, 110]  # Replace with your actual data (e.g., sales)
-})
+# Load the pre-processed dataset
+grouped_data = pd.read_csv('grouped_sales_data.csv', parse_dates=['ds'])
 
-# Convert 'ds' to datetime
-data['ds'] = pd.to_datetime(data['ds'])
+# Create an empty list to store the forecasts
+all_forecasts = []
 
-# Create and fit the model
-model = Prophet()
-model.fit(data)
+# Get unique cities and products
+unique_cities = grouped_data['City'].unique()
+unique_products = grouped_data['Product'].unique()
 
-# Make a future dataframe for 30 periods (e.g., days)
-future = model.make_future_dataframe(data, periods=30)  # This is the correct syntax
+# Loop through each city and product
+for city in unique_cities:
+    for product in unique_products:
+        # Filter the data for the current city and product
+        filtered_data = grouped_data[(grouped_data['City'] == city) & (grouped_data['Product'] == product)]
 
-# Predict the future
-forecast = model.predict(future)
+        # Check if there is sufficient data for the current city-product combination
+        if filtered_data.shape[0] < 2:
+            print(f"Skipping {product} in {city} due to insufficient data.")
+            continue
 
-# Extract the relevant columns for the forecast summary
-forecast_summary = forecast[['ds', 'yhat', 'yhat_lower', 'yhat_upper']]
+        print(f"Training Prophet model for {product} in {city}...")
 
-# Example of adding additional columns for product and city
-product_name = "Sample Product"
-city_name = "Sample City"
-forecast_summary['Product'] = product_name
-forecast_summary['City'] = city_name
+        # Initialize the Prophet model
+        model = Prophet(yearly_seasonality=True, weekly_seasonality=True)
+        model.fit(filtered_data)
 
-# Rename the columns as needed
-forecast_summary = forecast_summary.rename(columns={'yhat': 'forecast_next_30_days'})
+        # Create a future dataframe (e.g., forecast next 90 days)
+        future = model.make_future_dataframe(periods=90)
 
-# Save the forecast summary to a CSV file
-forecast_summary.to_csv('forecast_summary.csv', index=False)
+        # Generate the forecast
+        forecast = model.predict(future)
 
-print("Forecast summary saved as 'forecast_summary.csv'.")
+        # Add 'Product' and 'City' columns to the forecast DataFrame
+        forecast['Product'] = product
+        forecast['City'] = city
+
+        # Append the forecast to the list
+        all_forecasts.append(forecast[['ds', 'Product', 'City', 'yhat', 'yhat_lower', 'yhat_upper']])
+
+# Concatenate all forecasts into a single DataFrame
+final_forecast = pd.concat(all_forecasts, ignore_index=True)
+
+# Save the final forecast summary to a CSV file
+final_forecast.to_csv('summary_forecast.csv', index=False)
+
+print("Summary forecast saved as 'summary_forecast.csv'.")

@@ -4,13 +4,16 @@ import pandas as pd
 inventory_df = pd.read_csv('current_inventory.csv')
 
 # Load your forecast summary data
-forecast_df = pd.read_csv('forecast_summary.csv')  # Contains 'Product', 'City', 'forecast_next_30_days'
+forecast_df = pd.read_csv('summary_forecast.csv')  # Contains 'Product', 'City', 'yhat' or the correct forecast column
+
+# Print the column names to check
+print(forecast_df.columns)
 
 # Merge inventory data with forecast data
 merged_df = inventory_df.merge(forecast_df, on=['Product', 'City'], how='left')
 
-# Calculate reorder points (e.g., forecasted next 30 days with a 10% safety buffer)
-merged_df['Reorder_Point'] = merged_df['forecast_next_30_days'] * 1.1
+# Use the correct forecast column
+merged_df['Reorder_Point'] = merged_df['yhat'] * 1.1  # Use the correct forecast column name here
 
 # Identify products that need restocking
 restock_df = merged_df[merged_df['Stock_Level'] < merged_df['Reorder_Point']]
