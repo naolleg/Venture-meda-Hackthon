@@ -4,6 +4,9 @@ import pandas as pd
 # Load the pre-processed dataset
 grouped_data = pd.read_csv('grouped_sales_data.csv', parse_dates=['ds'])
 
+# Create an empty list to store the forecasts
+all_forecasts = []
+
 # Get unique cities and products
 unique_cities = grouped_data['City'].unique()
 unique_products = grouped_data['Product'].unique()
@@ -31,11 +34,17 @@ for city in unique_cities:
         # Generate the forecast
         forecast = model.predict(future)
 
-        # Plot the forecast
-        #model.plot(forecast).show()
+        # Add 'Product' and 'City' columns to the forecast DataFrame
+        forecast['Product'] = product
+        forecast['City'] = city
 
-        # Optionally, save the forecast to a CSV file
-        forecast_filename = f'forecast_{product}_{city}.csv'
-        forecast.to_csv(forecast_filename, index=False)
-        # Save forecast to a CSV file for each product-city pair
-        print(f"Forecast for {product} in {city} saved to {forecast_filename}")
+        # Append the forecast to the list
+        all_forecasts.append(forecast[['ds', 'Product', 'City', 'yhat', 'yhat_lower', 'yhat_upper']])
+
+# Concatenate all forecasts into a single DataFrame
+final_forecast = pd.concat(all_forecasts, ignore_index=True)
+
+# Save the final forecast summary to a CSV file
+final_forecast.to_csv('summary_forecast.csv', index=False)
+
+print("Summary forecast saved as 'summary_forecast.csv'.")

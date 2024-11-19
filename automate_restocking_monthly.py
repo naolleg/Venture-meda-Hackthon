@@ -37,7 +37,7 @@ def place_monthly_restock_orders(restock_df):
             order_quantity = round(order_quantity)  # Round the order quantity to the nearest integer
             
             # Print the restock order message in the required format
-            print(f"Placing restock order for {product} in {city}. Order quantity: {order_quantity}")
+            print(f"Placing restock order for {product} in {city}. Order for upcoming month a quantity of : {order_quantity}")
 
 # Call the function to calculate and place monthly restock orders
 place_monthly_restock_orders(restock_df)
