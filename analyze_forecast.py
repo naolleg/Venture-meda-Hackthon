@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import matplotlib.pyplot as plt
 
-# Get all forecast CSV files
+
 forecast_files = glob.glob('forecast_*.csv')
 
 # Loop through each file and plot the forecast
@@ -17,7 +17,7 @@ for file in forecast_files:
     plt.xlabel('Date')
     plt.ylabel('Predicted Sales')
     plt.legend()
-    plt.tight_layout()  # Adjusts the plot to fit within the figure area
+    plt.tight_layout()  
 
 # Show all plots after the loop completes
 plt.show()
